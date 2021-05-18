@@ -25,7 +25,7 @@ South Australia 5011<br/>
 `2004`
 **Fellow of the Royal Australasian College of Physicians**   
 
-`2010`  
+`2010`
 **Master of Clinical Epidemiology (with Distinction)**, *University of Newcastle*
 
 ## Experience
