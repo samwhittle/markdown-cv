@@ -74,23 +74,27 @@ South Australia 5011<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
+`2021`
+Sharma C, **Whittle S**, Haghighi P, Burstein F, Keen H. Response to 'Correspondence on 'Mining social media data to investigate patient perceptions regarding DMARD pharmacotherapy for rheumatoid arthritis'' by Reuter et al. Ann Rheum Dis. 2021 Feb. doi.org/10.1136/annrheumdis-2020-219815  
+Ferreira GE, Zadro JR, O’Keeffe M, Buchbinder R, Maher C, Latimer J, et al. Challenges faced by musculoskeletal health research in Australia and New Zealand due to the COVID-19 pandemic. Intern Med J. 2021;51: 622.  
+Venter G, Tieu J, Black R, Lester S, Leonardo N, **Whittle SL**, et al. Perspectives of Glucocorticoid Use in Patients with Rheumatoid Arthritis. ACR Open Rheumatology. 2021; 3(4): 231-238. doi:10.1002/acr2.11234  
+Adams L, Lester S, Hoon E, van der Haak H, Proudman C, Hall C, **Whittle S**, Proudman S, Hill C. Patient satisfaction and acceptability with telehealth at specialist medical outpatient clinics during the COVID-19 pandemic in Australia. Internal Medicine Journal 2021. In press.   
 
-1. Sharma C, **Whittle S**, Haghighi P, Burstein F, Keen H. Response to 'Correspondence on 'Mining social media data to investigate patient perceptions regarding DMARD pharmacotherapy for rheumatoid arthritis'' by Reuter et al. Ann Rheum Dis. 2021 Feb. doi.org/10.1136/annrheumdis-2020-219815  
-2. Ferreira GE, Zadro JR, O’Keeffe M, Buchbinder R, Maher C, Latimer J, et al. Challenges faced by musculoskeletal health research in Australia and New Zealand due to the COVID-19 pandemic. Intern Med J. 2021;51: 622.  
-3. Venter G, Tieu J, Black R, Lester S, Leonardo N, **Whittle SL**, et al. Perspectives of Glucocorticoid Use in Patients with Rheumatoid Arthritis. ACR Open Rheumatology. 2021; 3(4): 231-238. doi:10.1002/acr2.11234  
-4. Adams L, Lester S, Hoon E, van der Haak H, Proudman C, Hall C, **Whittle S**, Proudman S, Hill C. Patient satisfaction and acceptability with telehealth at specialist medical outpatient clinics during the COVID-19 pandemic in Australia. Internal Medicine Journal 2021. In press.   
-5. Davis CR, Ruediger CD, Dyer KA, Lester S, Graf SW, Kroon FPB, **Whittle SL**, Hill CL. Colchicine is not effective for reducing osteoarthritic hand pain compared to placebo: a randomised, placebo-controlled trial (COLAH). Osteoarthritis Cartilage. 2020. doi:10.1016/j.joca.2020.11.002  
-6. Buchbinder R, Ramiro S, Huang H, Gagnier JJ, Jia Y, **Whittle SL**. Measures of adult shoulder function. Arthritis Care Res (Hoboken). 2020 Oct;72 Suppl 10:250-293. doi: 10.1002/acr.24230  
-7. Sharma C, **Whittle S**, Haghighi PD,Burstein F, Keen H. Sentiment analysis of social media posts on pharmacotherapy: A scoping review. Pharmacol Res Perspect. 2020;e00640. https://doi.org/10.1002/prp2.640  
-8. Sharma C, **Whittle SL**, Delir Haghighi P, Burstein F, Sa’adon R, Keen H. Mining Social Media Data to Investigate Patient Perceptions Regarding DMARD Pharmacotherapy for Rheumatoid Arthritis. Ann Rheum Dis 2020. https://doi:10.1136/annrheumdis-2020-217333.  
-9. Lowe J, Briggs AM, **Whittle S**, Stephenson MD. A systematic review of the effects of probiotic administration in inflammatory arthritis. Complement Ther Clin Pract. 2020; 101207.  
-10. Leonardo N, Lester S, Graham M, Barrett C, **Whittle S**, Rowett D, et al. Selection and perception of methotrexate treatment information in people with rheumatoid arthritis. Int J Rheum Dis. 2020;15: 1586.  
-11. Putman MS, Sufka P, **Whittle S**, Robinson PC. European consensus statements for interstitial lung disease in systemic sclerosis [letter]. The Lancet Rheumatology. 2020;2: e317–e318.  
-12. Hazlewood GS, **Whittle SL**, Kamso MM, Akl EA, Wells GA, Tugwell P, et al. Disease‐modifying anti‐rheumatic drugs for rheumatoid arthritis: a systematic review and network meta‐analysis. Cochrane Database Syst Rev. 2020 [cited 8 Apr 2020]. doi:10.1002/14651858.CD013562  
-13. Khadra Y, Walker JG, Hakendorf P, Proudman S, Rischmueller M, Hill CL, **Whittle S**, et al. Scleroderma Renal Crisis: Observations from the South Australian Scleroderma Register. Intern Med J. 2020. doi:10.1111/imj.14772  
-14. Røe Y, Buchbinder R, Grotle M, **Whittle S**, Ramiro S, Huang H, et al. What do the OMERACT Shoulder Core Set candidate instruments measure? An analysis using the refined ICF linking rules. J Rheumatol. 2020. doi:10.3899/jrheum.190832   
-15. Leonardo N, Lester S, **Whittle S**, Rischmueller M. Review of gout clinic in a tertiary hospital setting. Intern Med J. 2020;50: 117–120.  
-16. Szeto C-C, Sugano K, Wang J-G, Fujimoto K, **Whittle S**, Modi GK, et al. Non-steroidal anti-inflammatory drug (NSAID) therapy in patients with hypertension, cardiovascular, renal or gastrointestinal comorbidities: joint APAGE/APLAR/APSDE/APSH/APSN/PoA recommendations. Gut. 2020; gutjnl–2019–319300.  
+`2020`  
+Davis CR, Ruediger CD, Dyer KA, Lester S, Graf SW, Kroon FPB, **Whittle SL**, Hill CL. Colchicine is not effective for reducing osteoarthritic hand pain compared to placebo: a randomised, placebo-controlled trial (COLAH). Osteoarthritis Cartilage. 2020. doi:10.1016/j.joca.2020.11.002  
+Buchbinder R, Ramiro S, Huang H, Gagnier JJ, Jia Y, **Whittle SL**. Measures of adult shoulder function. Arthritis Care Res (Hoboken). 2020 Oct;72 Suppl 10:250-293. doi: 10.1002/acr.24230  
+Sharma C, **Whittle S**, Haghighi PD,Burstein F, Keen H. Sentiment analysis of social media posts on pharmacotherapy: A scoping review. Pharmacol Res Perspect. 2020;e00640. https://doi.org/10.1002/prp2.640  
+Sharma C, **Whittle SL**, Delir Haghighi P, Burstein F, Sa’adon R, Keen H. Mining Social Media Data to Investigate Patient Perceptions Regarding DMARD Pharmacotherapy for Rheumatoid Arthritis. Ann Rheum Dis 2020. https://doi:10.1136/annrheumdis-2020-217333.  
+Lowe J, Briggs AM, **Whittle S**, Stephenson MD. A systematic review of the effects of probiotic administration in inflammatory arthritis. Complement Ther Clin Pract. 2020; 101207.  
+Leonardo N, Lester S, Graham M, Barrett C, **Whittle S**, Rowett D, et al. Selection and perception of methotrexate treatment information in people with rheumatoid arthritis. Int J Rheum Dis. 2020;15: 1586.  
+Putman MS, Sufka P, **Whittle S**, Robinson PC. European consensus statements for interstitial lung disease in systemic sclerosis [letter]. The Lancet Rheumatology. 2020;2: e317–e318.  
+Hazlewood GS, **Whittle SL**, Kamso MM, Akl EA, Wells GA, Tugwell P, et al. Disease‐modifying anti‐rheumatic drugs for rheumatoid arthritis: a systematic review and network meta‐analysis. Cochrane Database Syst Rev. 2020 [cited 8 Apr 2020]. doi:10.1002/14651858.CD013562  
+Khadra Y, Walker JG, Hakendorf P, Proudman S, Rischmueller M, Hill CL, **Whittle S**, et al. Scleroderma Renal Crisis: Observations from the South Australian Scleroderma Register. Intern Med J. 2020. doi:10.1111/imj.14772  
+Røe Y, Buchbinder R, Grotle M, **Whittle S**, Ramiro S, Huang H, et al. What do the OMERACT Shoulder Core Set candidate instruments measure? An analysis using the refined ICF linking rules. J Rheumatol. 2020. doi:10.3899/jrheum.190832   
+Leonardo N, Lester S, **Whittle S**, Rischmueller M. Review of gout clinic in a tertiary hospital setting. Intern Med J. 2020;50: 117–120.  
+Szeto C-C, Sugano K, Wang J-G, Fujimoto K, **Whittle S**, Modi GK, et al. Non-steroidal anti-inflammatory drug (NSAID) therapy in patients with hypertension, cardiovascular, renal or gastrointestinal comorbidities: joint APAGE/APLAR/APSDE/APSH/APSN/PoA recommendations. Gut. 2020; gutjnl–2019–319300.  
+
+`2019`
 17. Cai  K, **Whittle  SL**, Richards  BL, Ramiro  S, Falzon  L, Buchbinder  R. Marine oil supplements for rheumatoid arthritis. Cochrane Database of Systematic Reviews 2019, Issue 12. Art. No.: CD010250. DOI: 10.1002/14651858.CD010250.pub2.  
 18. Ng J, Little CB, Woods S, **Whittle S**, Lee FY, Gronthos S, et al. Stem Cell Directed Therapies for Osteoarthritis: the promise and the practice: Concise Review. Stem Cells. 2019. doi:10.1002/stem.3139  
 19. **Whittle SL**, Johnston RV, McDonald S, Paterson KL, Buchbinder R. Autologous blood product injections including platelet-rich plasma for osteoarthritis of the knee. [protocol]. Cochrane Database Syst Rev. 2019;24: 166.  
