@@ -78,7 +78,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Board Member, Australian Rheumatology Association**    
 
 `2014-present`
-**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network ([ANZMUSC](www.anzmusc.org))**  
+**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**  
 
 `2019-2024`
 **Member, Cochrane Musculoskeletal Editorial Board**  
