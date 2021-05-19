@@ -43,31 +43,31 @@ South Australia 5011<br/>
 **Adjunct Senior Research Fellow**, *Monash University*, Melbourne, Australia.
 
 `2009-2011`
-**Staff Specialist in Rheumatology**, *The Lyell McEwin Hospital*, Adelaide, South Australia.
+Staff Specialist in Rheumatology, *The Lyell McEwin Hospital*, Adelaide, South Australia.
 
 `2006-2008`
-**Director, Physician Training**, *The Queen Elizabeth Hospital*, Adelaide, South Australia.
+Director, Physician Training, *The Queen Elizabeth Hospital*, Adelaide, South Australia.
 
 `2005-2009`
-**Rheumatology Private Practice**, *Wakefield House*, Adelaide, South Australia.
+Rheumatology Private Practice, *Wakefield House*, Adelaide, South Australia.
 
 `2005`
-**Research Student**, *The University of Adelaide*, South Australia.
+Research Student, *The University of Adelaide*, South Australia.
 
 `2004`
-**Advanced Trainee in Rheumatology**, *Repatriation General Hospital & Flinders Medical Centre*, Adelaide, South Australia.
+Advanced Trainee in Rheumatology, *Repatriation General Hospital & Flinders Medical Centre*, Adelaide, South Australia.
 
 `2003`
-**Specialist Registrar in Rheumatology**, *St Peter's Hospital*, Chertsey, Surrey, UK.  
+Specialist Registrar in Rheumatology, *St Peter's Hospital*, Chertsey, Surrey, UK.  
 
 `2002`
-**Advanced Trainee in Rheumatology**, *The Royal Adelaide Hospital & The Queen Elizabeth Hospital*, Adelaide, South Australia.  
+Advanced Trainee in Rheumatology, *The Royal Adelaide Hospital & The Queen Elizabeth Hospital*, Adelaide, South Australia.  
 
 `1998-2001`
-**Basic Physician Trainee**, *The Royal Adelaide Hospital*, Adelaide, South Australia.  
+Basic Physician Trainee, *The Royal Adelaide Hospital*, Adelaide, South Australia.  
 
 `1997`
-**Intern**, *The Royal Adelaide Hospital*, Adelaide, South Australia.  
+Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.  
 
 
 ## Professional Service  
