@@ -86,11 +86,20 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2021-2024` 
 **Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
 
+`2021`
+**Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee**     
+
+`2018`
+**Steering Committee Member, National Strategic Action Plan for Arthritis**     
+
+`2021`
+**Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**      
+
 Other Australian Rheumatology Association Committees:  
   `2019-present`
-  Chair, Clinical Resources Committee    
+    **Chair, Clinical Resources Committee**    
   `2016-present`
-    ASM Programme Committee  
+    **ASM Programme Committee**  
   `2015-2018`
     Honorary Treasurer  
   `2014-2020`
@@ -109,15 +118,6 @@ Associate Editor, International Journal of Rheumatic Diseases
 
 `2012-present`
 Arthritis SA Education, Research & Advocacy Committee   
-
-`2021`
-Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee  
-
-`2018`
-Steering Committee Member, National Strategic Action Plan for Arthritis   
-
-`2021`
-Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition   
 
 
 ## Teaching  
