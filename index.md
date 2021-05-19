@@ -356,13 +356,11 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 - Jess  
 - etc
 
-*add professional service*
-
-
-## University service
-`2021-present`
-**Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
 
 
-<br/>Last updated: 18 May 2021<br/><br/>
+
+
+
+
+<br/>Last updated: 19 May 2021<br/><br/>
