@@ -204,7 +204,6 @@ Leonardo N, Lester S, **Whittle S**, Rischmueller M. _Review of gout clinic in a
 Szeto C-C, Sugano K, Wang J-G, Fujimoto K, **Whittle S**, Modi GK, et al. _Non-steroidal anti-inflammatory drug (NSAID) therapy in patients with hypertension, cardiovascular, renal or gastrointestinal comorbidities: joint APAGE/APLAR/APSDE/APSH/APSN/PoA recommendations._ Gut. 2020; gutjnl–2019–319300.  
 
 `2019`   
-
 Cai  K, **Whittle  SL**, Richards  BL, Ramiro  S, Falzon  L, Buchbinder  R. _Marine oil supplements for rheumatoid arthritis_. Cochrane Database of Systematic Reviews 2019, Issue 12. Art. No.: CD010250. DOI: 10.1002/14651858.CD010250.pub2.       
 
 Ng J, Little CB, Woods S, **Whittle S**, Lee FY, Gronthos S, et al. _Stem Cell Directed Therapies for Osteoarthritis: the promise and the practice: Concise Review._ Stem Cells. 2019. doi:10.1002/stem.3139  
@@ -324,6 +323,7 @@ Mangat P, **Whittle S**, Cleland L, Limaye V. _Digital vasculitis: a late compli
 
 `1996`  
 Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiographic changes in the knee after meniscal transplantation. An experimental study in a sheep model._ Am J Sports Med. 1996 Apr;24(2):222–6.
+
 
 ## Grants and funding
 
