@@ -87,9 +87,9 @@ South Australia 5011<br/>
 
 Other Australian Rheumatology Association Committees:  
   `2019-present`
-  - Chair, Clinical Resources Committee    
+  Chair, Clinical Resources Committee    
   `2016-present`
-  - ASM Programme Committee  
+    ASM Programme Committee  
   
   - Financial Advisory Committee _(2014-2020)_   
   - Honorary Treasurer _(2016-2018)_   
