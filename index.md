@@ -72,21 +72,25 @@ South Australia 5011<br/>
 
 ## Professional Service  
 `2019-2021`
-**President, Australian Rheumatology Association South Australian Branch _(2019-21)_**  
-**Board Member, Australian Rheumatology Association _(2019 - 2021)_**    
+**President, Australian Rheumatology Association South Australian Branch**  
+
+**Board Member, Australian Rheumatology Association**    
 
 `2014-present`
-**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC) _(2014-present)_**  
+**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network ([ANZMUSC](www.anzmusc.org))**  
 
 `2019-2024`
-**Member, Cochrane Musculoskeletal Editorial Board _(2019-2024)_**  
+**Member, Cochrane Musculoskeletal Editorial Board**  
 
 `2021-2024` 
-**Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network _(2021 - present)_**   
+**Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
 
-- Other Australian Rheumatology Association Committees:  
-  - Chair, Clinical Resources Committee _(2019 - present)_   
-  - ASM Programme Committee _(2016 - present)_  
+Other Australian Rheumatology Association Committees:  
+  `2019-present`
+  Chair, Clinical Resources Committee    
+  `2016-present`
+  ASM Programme Committee  
+  
   - Financial Advisory Committee _(2014-2020)_   
   - Honorary Treasurer _(2016-2018)_   
   - Sponsor Liaison Committee _(2016 - 2020)_    
