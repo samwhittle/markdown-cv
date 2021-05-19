@@ -74,6 +74,7 @@ South Australia 5011<br/>
 `2019-2021`
 **President, Australian Rheumatology Association South Australian Branch**  
 
+`2019-2021`
 **Board Member, Australian Rheumatology Association**    
 
 `2014-present`
@@ -90,14 +91,20 @@ Other Australian Rheumatology Association Committees:
   Chair, Clinical Resources Committee    
   `2016-present`
     ASM Programme Committee  
-  
-  - Financial Advisory Committee _(2014-2020)_   
-  - Honorary Treasurer _(2016-2018)_   
-  - Sponsor Liaison Committee _(2016 - 2020)_    
-  - Representative to Asia-Pacific League of Associations for Rheumatology (APLAR) _(2008-2018)_  
-  - Convenor, Annual Scientific Meeting, Adelaide *2015*  
-  - Electronic Communications Committee _(2008-12)_     
-- Associate Editor, International Journal of Rheumatic Diseases _(2008 - present)_   
+  `2015-2018`
+    Honorary Treasurer  
+  `2014-2020`
+    Financial Advisory Committee     
+  `2016-2020`   
+    Sponsor Liaison Committee      
+  `2008-2018`
+    Representative to Asia-Pacific League of Associations for Rheumatology (APLAR) _(2008-2018)_  
+  `2015`
+    Convenor, Annual Scientific Meeting, Adelaide     
+  `2008-2012`
+    Electronic Communications Committee      
+
+Associate Editor, International Journal of Rheumatic Diseases _(2008 - present)_   
 - Arthritis SA Education, Research & Advocacy Committee _(2012 – present)_  
 - Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee _2021_  
 - Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition _2021_  
