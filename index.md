@@ -95,7 +95,7 @@ Other Australian Rheumatology Association Committees:
     Honorary Treasurer  
   `2014-2020`
     Financial Advisory Committee     
-  `2016-2020`   
+  `2016-2020`
     Sponsor Liaison Committee      
   `2008-2018`
     Representative to Asia-Pacific League of Associations for Rheumatology (APLAR) _(2008-2018)_  
@@ -104,21 +104,66 @@ Other Australian Rheumatology Association Committees:
   `2008-2012`
     Electronic Communications Committee      
 
-Associate Editor, International Journal of Rheumatic Diseases _(2008 - present)_   
-- Arthritis SA Education, Research & Advocacy Committee _(2012 – present)_  
-- Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee _2021_  
-- Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition _2021_  
-- Co-ordinator, TQEH Med IV Rheumatology Teaching Programme _(2008-present)_ 
-- Steering Committee Member, National Strategic Action Plan for Arthritis _(2018)_  
-- Fellow, Shoulder Disorders Working Group, OMERACT _(2017 - 2018)_  
-- Chair of Judging Panel, RACP South Australian Trainee Research Awards 27 Oct _2020_  
-- Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 3rd Edition _2015-16_    
-- Grant Reviews:  
-  - NHMRC Grant Review Panel (2011 & 2012)  
-  - NHMRC External Assessor (2011, 2013, 2014)
-  - NZ Health Research Council Biomedical/clinical Science Assessing Committee (2019)  
-  - Arthritis Research UK (2016)
-  - Dutch Organisation for Health Research and Development (ZonMw) (2014)   
+`2008-present`
+Associate Editor, International Journal of Rheumatic Diseases      
+
+`2012-present`
+Arthritis SA Education, Research & Advocacy Committee   
+
+`2021`
+Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee  
+
+`2018`
+Steering Committee Member, National Strategic Action Plan for Arthritis   
+
+`2021`
+Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition   
+
+
+## Teaching  
+
+`2008-present`
+Co-ordinator, TQEH Med IV Rheumatology Teaching Programme  
+
+`2012-2018`
+RACP Educational Supervisor  
+
+`2006-2008`
+Director, Physician Training, Queen Elizabeth Hospital 
+
+
+## Other Research Activity  
+
+`2020`
+Chair of Judging Panel, RACP South Australian Trainee Research Awards   
+
+`2017-2018`
+Fellow, OMERACT Shoulder Disorders Working Group   
+
+`2019`
+NZ Health Research Council Biomedical/Clinical Science Assessing Committee  
+
+`2016`
+Arthritis Research UK External Assessor  
+
+`2011 & 2012`
+NHMRC Grant Review Panel  
+
+`2011, 2013, 2014`
+NHMRC External Assessor   
+
+`2014`
+Dutch Organisation for Health Research and Development External Assessor    
+
+### Research Supervision  
+
+`2019-2022`
+Dr Jess Pisaniello - PhD supervisor
+
+- Chinu  
+- Jess  
+- etc
+
 
 ## Publications  
 
@@ -359,16 +404,6 @@ _Predictors of Response to Therapy in Psoriasis and Psoriatic Arthritis_, Novart
 _Ankylosing Spondylitis: TNF Inhibition and Beyond_, Novartis Rheumatology and Dermatology Preceptorship. Sydney, 18th September 2016  
 
 _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicine Regional CME meeting, Adelaide, 7th November 2016  
-
-
-## Research Supervision  
-
-- Chinu  
-- Jess  
-- etc
-
-
-
 
 
 
