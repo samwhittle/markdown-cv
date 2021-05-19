@@ -70,6 +70,45 @@ South Australia 5011<br/>
 **Intern**, *The Royal Adelaide Hospital*, Adelaide, South Australia.  
 
 
+## Professional Service  
+`2019-2021`
+**President, Australian Rheumatology Association South Australian Branch _(2019-21)_**  
+**Board Member, Australian Rheumatology Association _(2019 - 2021)_**    
+
+`2014-present`
+**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC) _(2014-present)_**  
+
+`2019-2024`
+**Member, Cochrane Musculoskeletal Editorial Board _(2019-2024)_**  
+
+`2021-2024` 
+**Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network _(2021 - present)_**   
+
+- Other Australian Rheumatology Association Committees:  
+  - Chair, Clinical Resources Committee _(2019 - present)_   
+  - ASM Programme Committee _(2016 - present)_  
+  - Financial Advisory Committee _(2014-2020)_   
+  - Honorary Treasurer _(2016-2018)_   
+  - Sponsor Liaison Committee _(2016 - 2020)_    
+  - Representative to Asia-Pacific League of Associations for Rheumatology (APLAR) _(2008-2018)_  
+  - Convenor, Annual Scientific Meeting, Adelaide *2015*  
+  - Electronic Communications Committee _(2008-12)_     
+- Associate Editor, International Journal of Rheumatic Diseases _(2008 - present)_   
+- Arthritis SA Education, Research & Advocacy Committee _(2012 – present)_  
+- Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee _2021_  
+- Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition _2021_  
+- Co-ordinator, TQEH Med IV Rheumatology Teaching Programme _(2008-present)_ 
+- Steering Committee Member, National Strategic Action Plan for Arthritis _(2018)_  
+- Fellow, Shoulder Disorders Working Group, OMERACT _(2017 - 2018)_  
+- Chair of Judging Panel, RACP South Australian Trainee Research Awards 27 Oct _2020_  
+- Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 3rd Edition _2015-16_    
+- Grant Reviews:  
+  - NHMRC Grant Review Panel (2011 & 2012)  
+  - NHMRC External Assessor (2011, 2013, 2014)
+  - NZ Health Research Council Biomedical/clinical Science Assessing Committee (2019)  
+  - Arthritis Research UK (2016)
+  - Dutch Organisation for Health Research and Development (ZonMw) (2014)   
+
 ## Publications  
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
