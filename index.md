@@ -155,14 +155,23 @@ NHMRC External Assessor
 `2014`
 Dutch Organisation for Health Research and Development External Assessor    
 
-### Research Supervision  
+## Research Supervision  
 
-`2019-2022`
-Dr Jess Pisaniello - PhD supervisor
+### PhD Students
 
-- Chinu  
-- Jess  
-- etc
+`2018-present`
+Dr Huai Leng (Jessica) Pisaniello. University of Adelaide.  
+Co-supervisors: Professor Catherine Hill, Professor John Beltrame, Professor Will Dixon (Manchester)  
+
+### Masters Students
+
+`2017-2021`
+Dr Chanakya Sharma. University of Western Australia. 
+Co-supervisor: A/Prof Helen Keen (UWA)   
+
+`2017-2020`
+Judith Lowe. University of South Australia.  
+Co-supervisor: Prof Andrew Briggs  
 
 
 ## Publications  
