@@ -174,6 +174,13 @@ Judith Lowe. University of Adelaide.
 Co-supervisor: Prof Andrew Briggs (Curtin University)    
 
 
+## Living Guidelines  
+
+**An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**  
+mskguidelines.org    
+
+[Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jOGV9j)  
+
 ## Publications  
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
