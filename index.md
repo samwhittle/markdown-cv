@@ -166,12 +166,12 @@ Co-supervisors: Professor Catherine Hill, Professor John Beltrame, Professor Wil
 ### Masters Students
 
 `2017-2021`
-Dr Chanakya Sharma. University of Western Australia. 
+Dr Chanakya Sharma. University of Western Australia.   
 Co-supervisor: A/Prof Helen Keen (UWA)   
 
 `2017-2020`
-Judith Lowe. University of South Australia.  
-Co-supervisor: Prof Andrew Briggs  
+Judith Lowe. University of Adelaide.  
+Co-supervisor: Prof Andrew Briggs (Curtin University)    
 
 
 ## Publications  
