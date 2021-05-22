@@ -177,15 +177,15 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 ## Living Guidelines  
 
 **An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**  
-[mskguidelines.org](www.mskguidelines.org)      
+[mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)      
 
-[Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jOGV9j)  
-[Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
-[Psoriatic Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDS](https://app.magicapp.org/#/guideline/LqRV3n/section/j7gm0j)    
-[Opioids for Pain in Rheumatoid Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/Lrp8OE)   
-[Opioids for Pain in Axial Spondyloarthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/no78pn)   
-[Opioids for Pain in Psoriatic Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/nJwamE)   
-[COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)      
+  [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jOGV9j)  
+  [Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
+  [Psoriatic Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDS](https://app.magicapp.org/#/guideline/LqRV3n/section/j7gm0j)    
+  [Opioids for Pain in Rheumatoid Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/Lrp8OE)   
+  [Opioids for Pain in Axial Spondyloarthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/no78pn)   
+  [Opioids for Pain in Psoriatic Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/nJwamE)   
+  [COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)      
 
 ## Publications  
 
