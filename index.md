@@ -192,6 +192,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2021`  
+**Whittle SL**, Hazlewood GS, Robinson P, Johnston RV, Leder K, Glennon V, Avery JC, Grobler L, Buchbinder R. COVID‐19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies (protocol). Cochrane Database of Systematic Reviews 2021, Issue 6. Art. No.: CD014991. DOI: 10.1002/14651858.CD014991
+
 Sharma C, **Whittle S**, Haghighi P, Burstein F, Keen H. _Response to 'Correspondence on 'Mining social media data to investigate patient perceptions regarding DMARD pharmacotherapy for rheumatoid arthritis'' by Reuter et al._ Ann Rheum Dis. 2021 Feb. doi.org/10.1136/annrheumdis-2020-219815  
 
 Ferreira GE, Zadro JR, O’Keeffe M, Buchbinder R, Maher C, Latimer J, et al. _Challenges faced by musculoskeletal health research in Australia and New Zealand due to the COVID-19 pandemic._ Intern Med J. 2021;51: 622.  
