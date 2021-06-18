@@ -107,7 +107,7 @@ Other Australian Rheumatology Association Committees:
   `2016-2020`
     Sponsor Liaison Committee      
   `2008-2018`
-    Representative to Asia-Pacific League of Associations for Rheumatology (APLAR) _(2008-2018)_  
+    Representative to Asia-Pacific League of Associations for Rheumatology (APLAR)    
   `2015`
     Convenor, Annual Scientific Meeting, Adelaide     
   `2008-2012`
@@ -176,8 +176,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 ## Living Guidelines  
 
-**An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**  
-[mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)      
+**An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**: [mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)      
 
   [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jOGV9j)  
   [Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
@@ -323,6 +322,7 @@ Wechalekar MD, Lester S, Proudman SM, Cleland LG, **Whittle SL**, Rischmueller M
 
 `2011`  
 **Whittle SL**, Richards BL, Husni E, Buchbinder R. _Opioid therapy for treating rheumatoid arthritis pain._ Cochrane Database Syst Rev. 2011;11:CD003113.   
+
 Richards BL, **Whittle SL**, Buchbinder R. _Antidepressants for pain management in rheumatoid arthritis._ Cochrane Database Syst Rev. 2011;11:CD008920.     
 
 `2010`  
