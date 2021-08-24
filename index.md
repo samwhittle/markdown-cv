@@ -98,8 +98,8 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 Other Australian Rheumatology Association Committees:  
   `2019-present`
     **Chair, Clinical Resources Committee**    
-  `2016-present`
-    **ASM Programme Committee**  
+  `2016-2021`
+    ASM Programme Committee  
   `2015-2018`
     Honorary Treasurer  
   `2014-2020`
