@@ -390,9 +390,9 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 `2021`
 Invited international speaker, New Zealand Rheumatology Association Annual Scientific Meeting, Dunedin NZ, August 2021:  
-  1. "DMARD tapering in inflammatory arthritis: recommendations and realities"  
-  2. "Fibromyalgia: a survival guide for clinicians"  
-  3. "On building a living evidence ecosystem in musculoskeletal disease"  
+1. "DMARD tapering in inflammatory arthritis: recommendations and realities"  
+2. "Fibromyalgia: a survival guide for clinicians"  
+3. "On building a living evidence ecosystem in musculoskeletal disease"  
 
 _An Australian living guideline for the pharmacological management of inflammatory arthritis_, Cabrini Research Sessions, 12th May 2021  
 
