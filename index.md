@@ -86,6 +86,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2021-2024` 
 **Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
 
+`2021-present`  
+**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**  
+
 `2021`
 **Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee**     
 
@@ -185,6 +188,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Opioids for Pain in Axial Spondyloarthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/no78pn)   
   [Opioids for Pain in Psoriatic Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/nJwamE)   
   [COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)      
+  [Long-term use of low dose glucocorticoids in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/EQDv5n)  
 
 ## Publications  
 
@@ -385,7 +389,10 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 ## Invited talks
 
 `2021`
-Invited international speaker, New Zealand Rheumatology Association Annual Scientific Meeting, Dunedin NZ, August 2021  
+Invited international speaker, New Zealand Rheumatology Association Annual Scientific Meeting, Dunedin NZ, August 2021:  
+  1. "DMARD tapering in inflammatory arthritis: recommendations and realities"  
+  2. "Fibromyalgia: a survival guide for clinicians"  
+  3. "On building a living evidence ecosystem in musculoskeletal disease"  
 
 _An Australian living guideline for the pharmacological management of inflammatory arthritis_, Cabrini Research Sessions, 12th May 2021  
 
@@ -433,4 +440,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 15 June 2021<br/><br/>
+<br/>Last updated: 8 October 2021<br/><br/>
