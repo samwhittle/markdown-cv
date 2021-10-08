@@ -86,7 +86,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2021-2024` 
 **Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
 
-`2021-present`  
+`2021-present`
 **Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**  
 
 `2021`
