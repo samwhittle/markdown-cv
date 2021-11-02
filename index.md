@@ -71,11 +71,6 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 
 ## Professional Service  
-`2019-2021`
-**President, Australian Rheumatology Association South Australian Branch**  
-
-`2019-2021`
-**Board Member, Australian Rheumatology Association**    
 
 `2014-present`
 **Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**  
@@ -90,13 +85,19 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**  
 
 `2021`
-**Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee**     
-
-`2018`
-**Steering Committee Member, National Strategic Action Plan for Arthritis**     
+**Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee**         
 
 `2021`
-**Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**      
+**Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**   
+
+`2018`
+Steering Committee Member, National Strategic Action Plan for Arthritis 
+
+`2019-2021`
+President, Australian Rheumatology Association South Australian Branch  
+
+`2019-2021`
+Board Member, Australian Rheumatology Association    
 
 Other Australian Rheumatology Association Committees:  
   `2019-present`
@@ -189,6 +190,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Opioids for Pain in Psoriatic Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/nJwamE)   
   [COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)      
   [Long-term use of low dose glucocorticoids in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/EQDv5n)  
+  [Short-term use of glucocorticoids for treating flare in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jzVWRj)  
 
 ## Publications  
 
@@ -440,4 +442,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 8 October 2021<br/><br/>
+<br/>Last updated: 2 November 2021<br/><br/>
