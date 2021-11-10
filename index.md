@@ -188,7 +188,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Opioids for Pain in Rheumatoid Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/Lrp8OE)   
   [Opioids for Pain in Axial Spondyloarthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/no78pn)   
   [Opioids for Pain in Psoriatic Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/nJwamE)   
-  [COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)      
+  [COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)     
+  [COVID-19 additional (third) primary dose vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/jboyY9)   
   [Long-term use of low dose glucocorticoids in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/EQDv5n)  
   [Short-term use of glucocorticoids for treating flare in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jzVWRj)  
 
@@ -442,4 +443,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 2 November 2021<br/><br/>
+<br/>Last updated: 10 November 2021<br/><br/>
