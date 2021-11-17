@@ -198,6 +198,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2021`  
+Glennon V, **Whittle SL**, Hill CL, Johnston RV, Avery JC, Grobler L, et al. Short‐term glucocorticoids for flares in people with rheumatoid arthritis receiving disease‐modifying anti‐rheumatic drugs (DMARDs). Cochrane Database Syst Rev. 2021. doi:10.1002/14651858.CD014898  
+
 **Whittle SL**, Hazlewood GS, Robinson P, Johnston RV, Leder K, Glennon V, Avery JC, Grobler L, Buchbinder R. _COVID‐19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies (protocol)._ Cochrane Database of Systematic Reviews 2021, Issue 6. Art. No.: CD014991. DOI: 10.1002/14651858.CD014991
 
 Sharma C, **Whittle S**, Haghighi P, Burstein F, Keen H. _Response to 'Correspondence on 'Mining social media data to investigate patient perceptions regarding DMARD pharmacotherapy for rheumatoid arthritis'' by Reuter et al._ Ann Rheum Dis. 2021 Feb. doi.org/10.1136/annrheumdis-2020-219815  
@@ -443,4 +445,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 10 November 2021<br/><br/>
+<br/>Last updated: 17 November 2021<br/><br/>
