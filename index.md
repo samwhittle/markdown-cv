@@ -198,6 +198,10 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2021`  
+Feterman Jimenez D, Duron G, Hendin J, Mantovani Cardoso E, Valenzuela-Almada MO, Vallejo S, Duarte-Garcia A, Sufka P, **Whittle SL**, Robinson PC, Prokop LJ, Putman MS. *Industry involvement in rheumatology consensus-based recommendations: a systematic review*. The Lancet Rheumatology. 2021. doi:10.1016/S2665-9913(21)00332-5
+
+Avery JC, **Whittle SL**, Johnston RV, Grobler L, McKenzie BJ, Cyril S, et al. *Dose reduction and discontinuation of biologic and targeted synthetic disease‐modifying anti‐rheumatic drugs (DMARDs) in people with axial spondyloarthritis and low disease activity (protocol)*. Cochrane Database Syst Rev. 2021 [cited 30 Nov 2021]. doi:10.1002/14651858.CD014836
+
 Glennon V, **Whittle SL**, Hill CL, Johnston RV, Avery JC, Grobler L, et al. *Short‐term glucocorticoids for flares in people with rheumatoid arthritis receiving disease‐modifying anti‐rheumatic drugs (DMARDs) (protocol)*. Cochrane Database Syst Rev. 2021. doi:10.1002/14651858.CD014898  
 
 **Whittle SL**, Hazlewood GS, Robinson P, Johnston RV, Leder K, Glennon V, Avery JC, Grobler L, Buchbinder R. _COVID‐19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies (protocol)._ Cochrane Database of Systematic Reviews 2021, Issue 6. Art. No.: CD014991. DOI: 10.1002/14651858.CD014991
@@ -394,6 +398,10 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 ## Invited talks
 
 `2021`
+_ARA & NZRA Webinar - Vaccinations in people with autoimmune inflammatory rheumatic disease_, 29th November 2021   
+
+_Australian Rheumatology Association Webinar – The real risks of glucocorticoids_, 23rd November 2021  
+
 Invited international speaker, New Zealand Rheumatology Association Annual Scientific Meeting, Dunedin NZ, August 2021:  
 _"DMARD tapering in inflammatory arthritis: recommendations and realities"_    
 _"Fibromyalgia: a survival guide for clinicians"_   
@@ -445,4 +453,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 17 November 2021<br/><br/>
+<br/>Last updated: 19 December 2021<br/><br/>
