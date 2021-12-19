@@ -192,6 +192,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [COVID-19 additional (third) primary dose vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/jboyY9)   
   [Long-term use of low dose glucocorticoids in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/EQDv5n)  
   [Short-term use of glucocorticoids for treating flare in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jzVWRj)  
+  [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
 
 ## Publications  
 
