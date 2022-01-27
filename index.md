@@ -82,13 +82,13 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
 
 `2021-present`
-**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**  
-
-`2021`
-**Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee**         
+**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**          
 
 `2021`
 **Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**   
+
+`2021`
+Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee 
 
 `2018`
 Steering Committee Member, National Strategic Action Plan for Arthritis 
