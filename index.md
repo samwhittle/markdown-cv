@@ -199,8 +199,11 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
+`2022`  
+Renton WD, Tiller G, Munro J, Tan J, Johnston RV, Avery JC, **Whittle SL**, Arno A, Buchbinder R. *Dose reduction and discontinuation of disease‐modifying anti‐rheumatic drugs (DMARDs) for juvenile idiopathic arthritis (protocol)*. Cochrane Database Syst Rev. 2022 [cited 27 Jan 2022]. doi:10.1002/14651858.CD014961
+
 `2021`  
-Renton WD, Tiller G, Munro J, Tan J, Johnston RV, Avery JC, et al. *Dose reduction and discontinuation of disease‐modifying anti‐rheumatic drugs (DMARDs) for juvenile idiopathic arthritis (protocol)*. Cochrane Database Syst Rev. 2022 [cited 27 Jan 2022]. doi:10.1002/14651858.CD014961
+McKenzie BJ, **Whittle SL**, Johnston RV, Hill CL, Pardo JP, Glennon V, et al. *Long‐term glucocorticoids for rheumatoid arthritis (protocol)*. Cochrane Database Syst Rev. 2021 [cited 27 Jan 2022]. doi:10.1002/14651858.CD014899
 
 Feterman Jimenez D, Duron G, Hendin J, Mantovani Cardoso E, Valenzuela-Almada MO, Vallejo S, Duarte-Garcia A, Sufka P, **Whittle SL**, Robinson PC, Prokop LJ, Putman MS. *Industry involvement in rheumatology consensus-based recommendations: a systematic review*. The Lancet Rheumatology. 2021. doi:10.1016/S2665-9913(21)00332-5
 
