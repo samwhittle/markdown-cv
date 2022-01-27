@@ -87,6 +87,12 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2021`
 **Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**   
 
+`2008-present`
+**Associate Editor, International Journal of Rheumatic Diseases**        
+
+`2012-present`
+**Arthritis SA Education, Research & Advocacy Committee**  
+
 `2021`
 Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee 
 
@@ -115,13 +121,7 @@ Other Australian Rheumatology Association Committees:
   `2015`
     Convenor, Annual Scientific Meeting, Adelaide     
   `2008-2012`
-    Electronic Communications Committee      
-
-`2008-present`
-Associate Editor, International Journal of Rheumatic Diseases      
-
-`2012-present`
-Arthritis SA Education, Research & Advocacy Committee   
+    Electronic Communications Committee       
 
 
 ## Teaching  
