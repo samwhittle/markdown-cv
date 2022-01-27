@@ -332,7 +332,7 @@ Richards, BL, **Whittle SL**, van der Heijde, DM & Buchbinder, R. _The efficacy 
 
 Richards, BL, **Whittle SL**, van der Heijde, DM & Buchbinder, R. _The efficacy and safety of antidepressants in inflammatory arthritis: a Cochrane systematic review._ J Rheumatol Suppl 90, 21–27 (2012).  
 
-Richards, BL,** Whittle SL**, van der Heijde, DM & Buchbinder, R. _The efficacy and safety of muscle relaxants in inflammatory arthritis: a Cochrane systematic review._ J Rheumatol Suppl 90, 34–39 (2012).  
+Richards, BL, **Whittle SL**, van der Heijde, DM & Buchbinder, R. _The efficacy and safety of muscle relaxants in inflammatory arthritis: a Cochrane systematic review._ J Rheumatol Suppl 90, 34–39 (2012).  
 
 Richards BL, **Whittle SL**, Buchbinder R. _Neuromodulators for pain management in rheumatoid arthritis._ Cochrane Database Syst Rev. 2012;1:CD008921.   
 
