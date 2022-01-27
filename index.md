@@ -193,12 +193,15 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Long-term use of low dose glucocorticoids in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/EQDv5n)  
   [Short-term use of glucocorticoids for treating flare in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jzVWRj)  
   [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
+  [Initial DMARD therapy for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jDJelJ)  
 
 ## Publications  
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2021`  
+Renton WD, Tiller G, Munro J, Tan J, Johnston RV, Avery JC, et al. *Dose reduction and discontinuation of disease‐modifying anti‐rheumatic drugs (DMARDs) for juvenile idiopathic arthritis (protocol)*. Cochrane Database Syst Rev. 2022 [cited 27 Jan 2022]. doi:10.1002/14651858.CD014961
+
 Feterman Jimenez D, Duron G, Hendin J, Mantovani Cardoso E, Valenzuela-Almada MO, Vallejo S, Duarte-Garcia A, Sufka P, **Whittle SL**, Robinson PC, Prokop LJ, Putman MS. *Industry involvement in rheumatology consensus-based recommendations: a systematic review*. The Lancet Rheumatology. 2021. doi:10.1016/S2665-9913(21)00332-5
 
 Avery JC, **Whittle SL**, Johnston RV, Grobler L, McKenzie BJ, Cyril S, et al. *Dose reduction and discontinuation of biologic and targeted synthetic disease‐modifying anti‐rheumatic drugs (DMARDs) in people with axial spondyloarthritis and low disease activity (protocol)*. Cochrane Database Syst Rev. 2021 [cited 30 Nov 2021]. doi:10.1002/14651858.CD014836
@@ -454,4 +457,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 19 December 2021<br/><br/>
+<br/>Last updated: 27 January 2022<br/><br/>
