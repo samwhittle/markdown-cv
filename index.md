@@ -84,7 +84,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2021-present`
 **Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**          
 
-`2021`
+`2021-present`
 **Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**   
 
 `2008-present`
