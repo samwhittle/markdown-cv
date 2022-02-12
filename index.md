@@ -219,7 +219,7 @@ Ferreira GE, Zadro JR, O’Keeffe M, Buchbinder R, Maher C, Latimer J, et al. _C
 
 Venter G, Tieu J, Black R, Lester S, Leonardo N, **Whittle SL**, et al. _Perspectives of Glucocorticoid Use in Patients with Rheumatoid Arthritis._ ACR Open Rheumatology. 2021; 3(4): 231-238. doi:10.1002/acr2.11234  
 
-Adams L, Lester S, Hoon E, van der Haak H, Proudman C, Hall C, **Whittle S**, Proudman S, Hill C. _Patient satisfaction and acceptability with telehealth at specialist medical outpatient clinics during the COVID-19 pandemic in Australia._ Internal Medicine Journal 2021. In press.   
+Adams L, Lester S, Hoon E, van der Haak H, Proudman C, Hall C, **Whittle S**, Proudman S, Hill C. _Patient satisfaction and acceptability with telehealth at specialist medical outpatient clinics during the COVID-19 pandemic in Australia._ Internal Medicine Journal 2021;51: 1028–1037.   
 
 `2020`  
 Davis CR, Ruediger CD, Dyer KA, Lester S, Graf SW, Kroon FPB, **Whittle SL**, Hill CL. _Colchicine is not effective for reducing osteoarthritic hand pain compared to placebo: a randomised, placebo-controlled trial (COLAH)._ Osteoarthritis Cartilage. 2020. doi:10.1016/j.joca.2020.11.002  
@@ -460,4 +460,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 27 January 2022<br/><br/>
+<br/>Last updated: 13 February 2022<br/><br/>
