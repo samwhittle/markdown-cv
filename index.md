@@ -200,6 +200,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2022`  
+Khoo T, Chin A, **Whittle S**. *Fibromyalgia: small steps on a long journey*. Med Today. 2022 [cited 17 Feb 2022]. Available: https://medicinetoday.com.au/2022/jan-feb/regular-series/fibromyalgia-small-steps-long-journey
+
 Renton WD, Tiller G, Munro J, Tan J, Johnston RV, Avery JC, **Whittle SL**, Arno A, Buchbinder R. *Dose reduction and discontinuation of disease‐modifying anti‐rheumatic drugs (DMARDs) for juvenile idiopathic arthritis (protocol)*. Cochrane Database Syst Rev. 2022 [cited 27 Jan 2022]. doi:10.1002/14651858.CD014961
 
 `2021`  
@@ -460,4 +462,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 13 February 2022<br/><br/>
+<br/>Last updated: 17 February 2022<br/><br/>
