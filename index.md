@@ -126,7 +126,10 @@ Other Australian Rheumatology Association Committees:
 
 ## Teaching  
 
-`2008-present`
+`2022 - present`
+Course co-ordinator, University of Adelaide MBBS Rheumatology Teaching  
+
+`2008-2021`
 Co-ordinator, TQEH Med IV Rheumatology Teaching Programme  
 
 `2012-2018`
@@ -466,4 +469,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 2 April 2022<br/><br/>
+<br/>Last updated: 24 April 2022<br/><br/>
