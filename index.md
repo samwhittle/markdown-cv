@@ -126,8 +126,8 @@ Other Australian Rheumatology Association Committees:
 
 ## Teaching  
 
-`2022 - present`
-Course co-ordinator, University of Adelaide MBBS Rheumatology Teaching  
+`2022-present`
+**Course co-ordinator, University of Adelaide MBBS Rheumatology Teaching**  
 
 `2008-2021`
 Co-ordinator, TQEH Med IV Rheumatology Teaching Programme  
