@@ -203,6 +203,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2022`  
+Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, **Whittle SL**, et al. *Perioperative use of disease modifying anti‐rheumatic drugs (DMARDs) in people with inflammatory arthritis*. Cochrane Database Syst Rev. 2022 [cited 10 May 2022]. doi:10.1002/14651858.CD015096
+
 Khoo T, Hill CL, Hoon E, **Whittle S**. *Patient Perspectives of Disease Activity, Medications and Substance Use in People with Fibromyalgia*. Open Access Rheumatol. 2022;14:87-95 https://doi.org/10.2147/OARRR.S361804
 
 Lee C, Thomas M, Ejaredar, Kassam A, **Whittle SL**, Buchbinder R, et al. _Crowdsourcing trainees in a living systematic review provided valuable experiential learning opportunities: A mixed-methods study_. J Clin Epidemiol. 2022. doi:10.1016/j.jclinepi.2022.03.019
@@ -471,4 +473,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 5 May 2022<br/><br/>
+<br/>Last updated: 10 May 2022<br/><br/>
