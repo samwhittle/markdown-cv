@@ -72,6 +72,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 ## Professional Service  
 
+`2022-2024`
+**Vice President, Australian Rheumatology Association**   
+
 `2014-present`
 **Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**  
 
@@ -106,8 +109,10 @@ President, Australian Rheumatology Association South Australian Branch
 Board Member, Australian Rheumatology Association    
 
 Other Australian Rheumatology Association Committees:  
-  `2019-present`
-    **Chair, Clinical Resources Committee**    
+  `2022-present`
+    Chair, Policy & Advocacy Committee   
+  `2019-2022`
+    Chair, Clinical Resources Committee    
   `2016-2021`
     ASM Programme Committee  
   `2015-2018`
@@ -203,6 +208,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2022`  
+**Whittle SL**, Glennon V, Johnston RV, Avery JC, Bell JS, Brennan SE, et al. _Australian recommendations on tapering of biologic and targeted synthetic disease‐modifying anti‐rheumatic drugs in inflammatory arthritis_. Intern Med J. 2022. doi:10.1111/imj.15816
+
 Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, **Whittle SL**, et al. *Perioperative use of disease modifying anti‐rheumatic drugs (DMARDs) in people with inflammatory arthritis*. Cochrane Database Syst Rev. 2022 [cited 10 May 2022]. doi:10.1002/14651858.CD015096
 
 Khoo T, Hill CL, Hoon E, **Whittle S**. *Patient Perspectives of Disease Activity, Medications and Substance Use in People with Fibromyalgia*. Open Access Rheumatol. 2022;14:87-95 https://doi.org/10.2147/OARRR.S361804
@@ -473,4 +480,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 10 May 2022<br/><br/>
+<br/>Last updated: 16 May 2022<br/><br/>
