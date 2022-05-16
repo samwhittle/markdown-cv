@@ -424,6 +424,9 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Invited talks
 
+`2022`
+*Technogovernance, phronesis, pre-digestion, and electronic mindlines: a brief exploration of the value of guidelines at the point of care*, Australian Rheumatology Association Annual Scientific Meeting, Perth, May 2022   
+
 `2021`
 _ARA & NZRA Webinar - Vaccinations in people with autoimmune inflammatory rheumatic disease_, 29th November 2021   
 
