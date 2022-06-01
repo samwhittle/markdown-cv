@@ -392,7 +392,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 ## Grants and funding
 
 `2022-2026`
-**MRFF– Emerging Priorities and Consumer Driven Research Initiative** (APP2016105) (CII): *A3BC for Kids* ($2,496,875.50)  
+**MRFF Emerging Priorities and Consumer Driven Research Initiative** (APP2016105) (CII): *A3BC for Kids* ($2,496,875.50)  
 
 `2021-2024`
 **MRFF Efficient Use of Existing Medicines** (APP2007502) (CII): *Cost-utility comparison of down-titration strategies for safer and more efficient use of biologics in adults with rheumatoid arthritis and psoriatic arthritis*, ($2.7M)  
