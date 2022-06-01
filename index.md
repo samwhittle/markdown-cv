@@ -391,20 +391,24 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Grants and funding
 
+`2022-2026`
+**MRFF– Emerging Priorities and Consumer Driven Research Initiative** (APP2016105) (CII): *A3BC for Kids* ($2,496,875.50)  
+
+`2021-2024`
+**MRFF Efficient Use of Existing Medicines** (APP2007502) (CII): *Cost-utility comparison of down-titration strategies for safer and more efficient use of biologics in adults with rheumatoid arthritis and psoriatic arthritis*, ($2.7M)  
+
+`2019-2022`
+**Australian Commonwealth Government Value in Prescribing Program: Biological Disease-Modifying Anti-Rheumatic Drugs** (GO1512) (Consortium Member) ($8,411,402)  
+
+`2020-2021`
+**Therapeutic Guidelines Ltd (TGL)/RACGP Foundation Research Grant** (TGL-03) (CI): *Use of Osteoarthritis Guidelines in General Practice: An Analysis of Work-as-Done Using the Functional Resonance Analysis Method*. ($19,968) 
+
 `2018-2021`
 **ANZMUSC Practitioner Fellowship** ($398,520) 
 
 `2018` 
-**Arthritis Australia Project Grant**  (CIB): *Community perceptions of rheumatoid arthritis pharmacotherapy: an analysis of social media platforms* ($35,000)  
+**Arthritis Australia Project Grant**  (CIB): *Community perceptions of rheumatoid arthritis pharmacotherapy: an analysis of social media platforms* ($35,000)        
 
-`2020-2021`
-**Therapeutic Guidelines Ltd (TGL)/RACGP Foundation Research Grant** (TGL-03) (CI): *Use of Osteoarthritis Guidelines in General Practice: An Analysis of Work-as-Done Using the Functional Resonance Analysis Method*. ($19,968)   
-
-`2019-2022`
-**Australian Commonwealth Government Value in Prescribing Program: Biological Disease-Modifying Anti-Rheumatic Drugs** (GO1512) (Consortium Member) ($8,411,402)   
-
-`2021-2024`
-**MRFF Efficient Use of Existing Medicines** (APP2007502) (CII): *Cost-utility comparison of down-titration strategies for safer and more efficient use of biologics in adults with rheumatoid arthritis and psoriatic arthritis*, ($2.7M)
 
 
 ## Awards and Honours
@@ -483,4 +487,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 16 May 2022<br/><br/>
+<br/>Last updated: 1 June 2022<br/><br/>
