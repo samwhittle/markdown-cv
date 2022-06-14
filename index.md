@@ -202,6 +202,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Short-term use of glucocorticoids for treating flare in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jzVWRj)  
   [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
   [Initial DMARD therapy for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jDJelJ)  
+  [Short-term bridging glucocorticoids in addition to DMARD therapy in RA](https://app.magicapp.org/#/guideline/LqRV3n/rec/EKeNq9)  
 
 ## Publications  
 
@@ -487,4 +488,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 1 June 2022<br/><br/>
+<br/>Last updated: 14 June 2022<br/><br/>
