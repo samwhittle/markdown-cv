@@ -93,8 +93,11 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2008-present`
 **Associate Editor, International Journal of Rheumatic Diseases**        
 
-`2012-present`
-**Arthritis SA Education, Research & Advocacy Committee**  
+`2016-2018, 2019-2021, 2022-present`
+**Board Member, Australian Rheumatology Association**       
+
+`2012-2022`
+Arthritis SA Education, Research & Advocacy Committee   
 
 `2021`
 Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee 
@@ -103,10 +106,7 @@ Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) 
 Steering Committee Member, National Strategic Action Plan for Arthritis 
 
 `2019-2021`
-President, Australian Rheumatology Association South Australian Branch  
-
-`2019-2021`
-Board Member, Australian Rheumatology Association    
+President, Australian Rheumatology Association South Australian Branch     
 
 Other Australian Rheumatology Association Committees:  
   `2022-present`
@@ -115,7 +115,7 @@ Other Australian Rheumatology Association Committees:
     Chair, Clinical Resources Committee    
   `2016-2021`
     ASM Programme Committee  
-  `2015-2018`
+  `2016-2018`
     Honorary Treasurer  
   `2014-2020`
     Financial Advisory Committee     
@@ -488,4 +488,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 14 June 2022<br/><br/>
+<br/>Last updated: 7 July 2022<br/><br/>
