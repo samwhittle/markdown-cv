@@ -209,6 +209,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2022`  
+Tiller G, Renton WD, Tan J, **Whittle S**, Avery J, Munro J, et al. _Modified Delphi study to identify priority clinical questions for the Australian living guidelines for the management of Juvenile Idiopathic Arthritis_. Pediatr Rheumatol Online J. 2022;20: 52.  
+
 **Whittle SL**, Glennon V, Johnston RV, Avery JC, Bell JS, Brennan SE, et al. _Australian recommendations on tapering of biologic and targeted synthetic disease‐modifying anti‐rheumatic drugs in inflammatory arthritis_. Intern Med J. 2022. doi:10.1111/imj.15816
 
 Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, **Whittle SL**, et al. *Perioperative use of disease modifying anti‐rheumatic drugs (DMARDs) in people with inflammatory arthritis*. Cochrane Database Syst Rev. 2022 [cited 10 May 2022]. doi:10.1002/14651858.CD015096
@@ -488,4 +490,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 7 July 2022<br/><br/>
+<br/>Last updated: 28 July 2022<br/><br/>
