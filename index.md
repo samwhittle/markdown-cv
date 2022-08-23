@@ -96,6 +96,12 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2016-2018, 2019-2021, 2022-present`
 **Board Member, Australian Rheumatology Association**       
 
+`2022-present`
+Member, College Council. The Royal Australasian College of Physicians    
+
+`2022-present`
+Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)   
+
 `2012-2022`
 Arthritis SA Education, Research & Advocacy Committee   
 
@@ -203,12 +209,22 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
   [Initial DMARD therapy for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jDJelJ)  
   [Short-term bridging glucocorticoids in addition to DMARD therapy in RA](https://app.magicapp.org/#/guideline/LqRV3n/rec/EKeNq9)  
+  
+  
+  **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  
+  
+  [bDMARDs or tsDMARDs in patients with juvenile idiopathic arthritis associated uveitis who have not responded to methotrexate](https://app.magicapp.org/#/guideline/nyxpZL/rec/EKeMqe)   
+  [Methotrexate for the management of juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/ERl95X)   
+  [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)   
+  
 
 ## Publications  
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
 
 `2022`  
+Pisaniello J, **Whittle SL**, Lester S, Menz F, Metcalf R, McWilliams L, Hill CL, Proudman S. _Using The Derived 28-Joint Disease Activity Score Patient-Reported Components (DAS28-P) Index as a Discriminatory Measure of Response to Disease-Modifying Rheumatic Drug Therapy in Early Rheumatoid Arthritis_. BMC Rheumatology 2022. *In press*.    
+
 Tiller G, Renton WD, Tan J, **Whittle S**, Avery J, Munro J, et al. _Modified Delphi study to identify priority clinical questions for the Australian living guidelines for the management of Juvenile Idiopathic Arthritis_. Pediatr Rheumatol Online J. 2022;20: 52.  
 
 **Whittle SL**, Glennon V, Johnston RV, Avery JC, Bell JS, Brennan SE, et al. _Australian recommendations on tapering of biologic and targeted synthetic disease‐modifying anti‐rheumatic drugs in inflammatory arthritis_. Intern Med J. 2022. doi:10.1111/imj.15816
@@ -490,4 +506,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 28 July 2022<br/><br/>
+<br/>Last updated: 24 August 2022<br/><br/>
