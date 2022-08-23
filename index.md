@@ -448,7 +448,16 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Invited talks
 
-`2022`
+`2022`   
+Invited speaker, 24th Asia-Pacific League of Associations for Rheumatology Congress (APLAR 2022), Hong Kong, December 2022:   
+_"Back pain - a COPCORD community perspective. Management Strategies"   
+
+Invited international speaker, Indian Rheumatology Association 37th Annual Conference, Indore, India, November 2022:   
+_Workshop: Systematic Review_   
+_Meet The Professor: "A Clinician's survival guide to Fibromyalgia"_   
+_“Living Evidence in Practice: How do we practice in a world awash with evidence?”_    
+_“What is the role of opioids in modern rheumatology practice?”_   
+
 *Technogovernance, phronesis, pre-digestion, and electronic mindlines: a brief exploration of the value of guidelines at the point of care*, Australian Rheumatology Association Annual Scientific Meeting, Perth, May 2022   
 
 `2021`
