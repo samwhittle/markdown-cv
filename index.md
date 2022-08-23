@@ -450,7 +450,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 `2022`
 Invited speaker, 24th Asia-Pacific League of Associations for Rheumatology Congress (APLAR 2022), Hong Kong, December 2022:   
-_"Back pain - a COPCORD community perspective. Management Strategies"   
+_"Back pain - a COPCORD community perspective. Management Strategies"_       
 
 Invited international speaker, Indian Rheumatology Association 37th Annual Conference, Indore, India, November 2022:   
 _Workshop: Systematic Review_   
