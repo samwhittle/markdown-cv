@@ -116,9 +116,9 @@ President, Australian Rheumatology Association South Australian Branch
 
 Other Australian Rheumatology Association Committees:  
   `2022-present`
-      Chair, Policy & Advocacy Committee   
+    Chair, Policy & Advocacy Committee   
   `2019-2022`
-      Chair, Clinical Resources Committee    
+    Chair, Clinical Resources Committee    
   `2016-2021`
     ASM Programme Committee  
   `2016-2018`
@@ -448,7 +448,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Invited talks
 
-`2022`   
+`2022`
 Invited speaker, 24th Asia-Pacific League of Associations for Rheumatology Congress (APLAR 2022), Hong Kong, December 2022:   
 _"Back pain - a COPCORD community perspective. Management Strategies"   
 
