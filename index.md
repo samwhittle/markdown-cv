@@ -116,9 +116,9 @@ President, Australian Rheumatology Association South Australian Branch
 
 Other Australian Rheumatology Association Committees:  
   `2022-present`
-    Chair, Policy & Advocacy Committee   
+      Chair, Policy & Advocacy Committee   
   `2019-2022`
-    Chair, Clinical Resources Committee    
+      Chair, Clinical Resources Committee    
   `2016-2021`
     ASM Programme Committee  
   `2016-2018`
@@ -179,7 +179,8 @@ Dutch Organisation for Health Research and Development External Assessor
 
 `2018-present`
 Dr Huai Leng (Jessica) Pisaniello. University of Adelaide.  
-Co-supervisors: Professor Catherine Hill, Professor John Beltrame, Professor Will Dixon (Manchester)  
+Co-supervisors: Professor Catherine Hill, Professor John Beltrame, Professor Will Dixon (Manchester)    
+
 
 ### Masters Students
 
