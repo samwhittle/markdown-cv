@@ -79,10 +79,10 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**  
 
 `2019-2024`
-**Member, Cochrane Musculoskeletal Editorial Board**  
+**Editorial Board Member, Cochrane Musculoskeletal**  
 
 `2021-2024` 
-**Steering Committee, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
+**Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
 
 `2021-present`
 **Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**          
@@ -93,7 +93,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2008-present`
 **Associate Editor, International Journal of Rheumatic Diseases**        
 
-`2016-2018, 2019-2021, 2022-present`
+`2016-2021, 2022-present`
 **Board Member, Australian Rheumatology Association**       
 
 `2022-present`
@@ -197,8 +197,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 **An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**: [mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)      
 
-  [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jOGV9j)  
-  [Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
+  1. [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jOGV9j)  
+  2. [Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
   [Psoriatic Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDS](https://app.magicapp.org/#/guideline/LqRV3n/section/j7gm0j)    
   [Opioids for Pain in Rheumatoid Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/Lrp8OE)   
   [Opioids for Pain in Axial Spondyloarthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/no78pn)   
@@ -221,7 +221,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 ## Publications  
 
-*Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works).*    
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2022`  
 Pisaniello J, **Whittle SL**, Lester S, Menz F, Metcalf R, McWilliams L, Hill CL, Proudman S. _Using The Derived 28-Joint Disease Activity Score Patient-Reported Components (DAS28-P) Index as a Discriminatory Measure of Response to Disease-Modifying Rheumatic Drug Therapy in Early Rheumatoid Arthritis_. BMC Rheumatology 2022. *In press*.    
