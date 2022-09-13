@@ -224,6 +224,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2022`  
+Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Chand V, Marine F, March L, Sinnathurai P, Buchbinder R, Hill C. _Attitudes of Australians with Inflammatory Arthritis to Biologic Therapy and Biosimilars_. Rheumatology Advances in Practice 2022. _In press_.     
+
 Pisaniello J, **Whittle SL**, Lester S, Menz F, Metcalf R, McWilliams L, Hill CL, Proudman S. _Using The Derived 28-Joint Disease Activity Score Patient-Reported Components (DAS28-P) Index as a Discriminatory Measure of Response to Disease-Modifying Rheumatic Drug Therapy in Early Rheumatoid Arthritis_. BMC Rheumatology 2022. *In press*.    
 
 Tiller G, Renton WD, Tan J, **Whittle S**, Avery J, Munro J, et al. _Modified Delphi study to identify priority clinical questions for the Australian living guidelines for the management of Juvenile Idiopathic Arthritis_. Pediatr Rheumatol Online J. 2022;20: 52.  
@@ -516,4 +518,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 24 August 2022<br/><br/>
+<br/>Last updated: 13 September 2022<br/><br/>
