@@ -224,7 +224,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2022`  
-Wang H, Ghogomu E, Dewidar O, Pardo J, Robinson PC, **Whittle SL**, Mbuagbaw L, Hazlewood G, Buchbinder R, Leder K, Welch V. _Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases_. Arthritis Care & Research 2022. *In press*.    
+Wang H, Dewidar O, **Whittle SL**, Ghogomu E, Hazlewood G, Leder K, et al. Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases. Arthritis Care Res. [2022](doi:10.1002/acr.25034)        
 
 Lyon A, Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Sinnathurai P, March L, Buchbinder R, Hill CL. _Vaccination Rates, Perceptions and Information Sources Utilised by People with Inflammatory Arthritis_. ACR Open Rheumatology 2022. *In press*    
 
@@ -522,4 +522,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 1 October 2022<br/><br/>
+<br/>Last updated: 6 October 2022<br/><br/>
