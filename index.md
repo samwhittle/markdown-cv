@@ -240,7 +240,7 @@ Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, *
 
 Khoo T, Hill CL, Hoon E, **Whittle S**. *Patient Perspectives of Disease Activity, Medications and Substance Use in People with Fibromyalgia*. Open Access Rheumatol. 2022;14:87-95 https://doi.org/10.2147/OARRR.S361804
 
-Lee C, Thomas M, Ejaredar, Kassam A, **Whittle SL**, Buchbinder R, et al. _Crowdsourcing trainees in a living systematic review provided valuable experiential learning opportunities: A mixed-methods study_. J Clin Epidemiol. 2022. doi:10.1016/j.jclinepi.2022.03.019
+Lee C, Thomas M, Ejaredar, Kassam A, **Whittle SL**, Buchbinder R, et al. _Crowdsourcing trainees in a living systematic review provided valuable experiential learning opportunities: A mixed-methods study_. J Clin Epidemiol. 2022 Jul;147:142-150. [doi: 10.1016/j.jclinepi.2022.03.019](doi: 10.1016/j.jclinepi.2022.03.019)    
 
 Lalor AF, Brooker JE, Rozbroj T, **Whittle SL**, Hill CL, Rowett D, et al. *Factors influencing clinician prescribing of disease-modifying anti-rheumatic drugs for inflammatory arthritis: A systematic review and thematic synthesis of qualitative studies*. Semin Arthritis Rheum. 2022; 151988.
 
@@ -522,4 +522,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 6 October 2022<br/><br/>
+<br/>Last updated: 13 October 2022<br/><br/>
