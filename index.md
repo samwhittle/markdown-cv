@@ -224,7 +224,9 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2022`  
-Wang H, Dewidar O, **Whittle SL**, Ghogomu E, Hazlewood G, Leder K, et al. Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases. Arthritis Care Res. [2022](doi:10.1002/acr.25034)        
+Tsakas JJ, Liew DFL, Adams CL, Hill CL, Proudman S, **Whittle S**, et al. _Attitudes and practices in the laboratory monitoring of conventional synthetic disease modifying anti-rheumatic drugs by rheumatologists and rheumatology trainees._ BMC Rheumatology. 2022;6: [1–8](https://bmcrheumatol.biomedcentral.com/articles/10.1186/s41927-022-00290-y).        
+
+Wang H, Dewidar O, **Whittle SL**, Ghogomu E, Hazlewood G, Leder K, et al. _Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases._ Arthritis Care Res. [2022](doi:10.1002/acr.25034)        
 
 Lyon A, Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Sinnathurai P, March L, Buchbinder R, Hill CL. _Vaccination Rates, Perceptions and Information Sources Utilised by People with Inflammatory Arthritis_. ACR Open Rheumatology 2022. *In press*    
 
@@ -522,4 +524,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 13 October 2022<br/><br/>
+<br/>Last updated: 17 October 2022<br/><br/>
