@@ -158,6 +158,9 @@ Chair of Judging Panel, RACP South Australian Trainee Research Awards
 `2017-2018`
 Fellow, OMERACT Shoulder Disorders Working Group   
 
+`2022-present`
+Co-chair, OMERACT Shoulder Disorders Working Group   
+
 `2019`
 NZ Health Research Council Biomedical/Clinical Science Assessing Committee  
 
@@ -232,7 +235,7 @@ Lyon A, Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Sin
 
 Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Chand V, Marine F, March L, Sinnathurai P, Buchbinder R, Hill C. _Attitudes of Australians with Inflammatory Arthritis to Biologic Therapy and Biosimilars_. Rheumatology Advances in Practice 2022. _In press_.     
 
-Pisaniello J, **Whittle SL**, Lester S, Menz F, Metcalf R, McWilliams L, Hill CL, Proudman S. _Using The Derived 28-Joint Disease Activity Score Patient-Reported Components (DAS28-P) Index as a Discriminatory Measure of Response to Disease-Modifying Rheumatic Drug Therapy in Early Rheumatoid Arthritis_. BMC Rheumatology 2022. *In press*.    
+Pisaniello J, **Whittle SL**, Lester S, Menz F, Metcalf R, McWilliams L, Hill CL, Proudman S. _Using The Derived 28-Joint Disease Activity Score Patient-Reported Components (DAS28-P) Index as a Discriminatory Measure of Response to Disease-Modifying Rheumatic Drug Therapy in Early Rheumatoid Arthritis_. BMC Rheumatol 6, 67 (2022). [https://doi.org/10.1186/s41927-022-00299-3](https://doi.org/10.1186/s41927-022-00299-3)        
 
 Tiller G, Renton WD, Tan J, **Whittle S**, Avery J, Munro J, et al. _Modified Delphi study to identify priority clinical questions for the Australian living guidelines for the management of Juvenile Idiopathic Arthritis_. Pediatr Rheumatol Online J. 2022;20: 52.  
 
@@ -524,4 +527,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 17 October 2022<br/><br/>
+<br/>Last updated: 16 November 2022<br/><br/>
