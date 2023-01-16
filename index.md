@@ -226,14 +226,20 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
+`2023`  
+Cheyne S, Fraile Navarro D, Buttery AK, Chakraborty S, Crane O, Hill K, McFarlane E, Morgan RL, Mustafa RA, Poole A, Tunnicliffe D, Vogel JP, White H, **Whittle S**, Turner T. _Methods for Living Guidelines: Early Guidance based on practical experience. Paper 3: Selecting and prioritising questions for living guidelines._ J Clin Epidemiol. 2023. [doi:10.1016/j.jclinepi.2022.12.021](doi:10.1016/j.jclinepi.2022.12.021)   
+
+Cheyne S, Fraile Navarro D, Hill K, McDonald S, Tunnicliffe D, White H, **Whittle S**, et al. _Methods for Living Guidelines: Early Guidance based on practical experience. Paper 1: Introduction._ J Clin Epidemiol. 2023. doi:10.1016/j.jclinepi.2022.12.024
+
 `2022`  
+Synnot A, Hill K, Davey J, English K, **Whittle SL**, Buchbinder R, et al. _Methods for living guidelines: Early Guidance based on practical experience. Paper 2: Consumer engagement in living guidelines._ J Clin Epidemiol. 2022. [doi:10.1016/j.jclinepi.2022.12.020](doi:10.1016/j.jclinepi.2022.12.020)        
 Tsakas JJ, Liew DFL, Adams CL, Hill CL, Proudman S, **Whittle S**, et al. _Attitudes and practices in the laboratory monitoring of conventional synthetic disease modifying anti-rheumatic drugs by rheumatologists and rheumatology trainees._ BMC Rheumatology. 2022;6: [1–8](https://bmcrheumatol.biomedcentral.com/articles/10.1186/s41927-022-00290-y).        
 
 Wang H, Dewidar O, **Whittle SL**, Ghogomu E, Hazlewood G, Leder K, et al. _Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases._ Arthritis Care Res. [2022](doi:10.1002/acr.25034)        
 
 Lyon A, Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Sinnathurai P, March L, Buchbinder R, Hill CL. _Vaccination Rates, Perceptions and Information Sources Utilised by People with Inflammatory Arthritis_. ACR Open Rheumatology 2022. *In press*    
 
-Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Chand V, Marine F, March L, Sinnathurai P, Buchbinder R, Hill C. _Attitudes of Australians with Inflammatory Arthritis to Biologic Therapy and Biosimilars_. Rheumatology Advances in Practice 2022. _In press_.     
+Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Chand V, Marine F, March L, Sinnathurai P, Buchbinder R, Hill C. _Attitudes of Australians with Inflammatory Arthritis to Biologic Therapy and Biosimilars_. Rheumatology Advances in Practice 2022. 2022;6: rkac099.     
 
 Pisaniello J, **Whittle SL**, Lester S, Menz F, Metcalf R, McWilliams L, Hill CL, Proudman S. _Using The Derived 28-Joint Disease Activity Score Patient-Reported Components (DAS28-P) Index as a Discriminatory Measure of Response to Disease-Modifying Rheumatic Drug Therapy in Early Rheumatoid Arthritis_. BMC Rheumatol 6, 67 (2022). [https://doi.org/10.1186/s41927-022-00299-3](https://doi.org/10.1186/s41927-022-00299-3)        
 
@@ -527,4 +533,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 16 November 2022<br/><br/>
+<br/>Last updated: 17 January 2023<br/><br/>
