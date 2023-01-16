@@ -229,7 +229,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 `2023`  
 Cheyne S, Fraile Navarro D, Buttery AK, Chakraborty S, Crane O, Hill K, McFarlane E, Morgan RL, Mustafa RA, Poole A, Tunnicliffe D, Vogel JP, White H, **Whittle S**, Turner T. _Methods for Living Guidelines: Early Guidance based on practical experience. Paper 3: Selecting and prioritising questions for living guidelines._ J Clin Epidemiol. 2023. [doi:10.1016/j.jclinepi.2022.12.021](doi:10.1016/j.jclinepi.2022.12.021)   
 
-Cheyne S, Fraile Navarro D, Hill K, McDonald S, Tunnicliffe D, White H, **Whittle S**, et al. _Methods for Living Guidelines: Early Guidance based on practical experience. Paper 1: Introduction._ J Clin Epidemiol. 2023. doi:10.1016/j.jclinepi.2022.12.024
+Cheyne S, Fraile Navarro D, Hill K, McDonald S, Tunnicliffe D, White H, **Whittle S**, et al. _Methods for Living Guidelines: Early Guidance based on practical experience. Paper 1: Introduction._ J Clin Epidemiol. 2023. [doi:10.1016/j.jclinepi.2022.12.024](doi:10.1016/j.jclinepi.2022.12.024)     
 
 `2022`  
 Synnot A, Hill K, Davey J, English K, **Whittle SL**, Buchbinder R, et al. _Methods for living guidelines: Early Guidance based on practical experience. Paper 2: Consumer engagement in living guidelines._ J Clin Epidemiol. 2022. [doi:10.1016/j.jclinepi.2022.12.020](doi:10.1016/j.jclinepi.2022.12.020)   
