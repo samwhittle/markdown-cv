@@ -232,7 +232,8 @@ Cheyne S, Fraile Navarro D, Buttery AK, Chakraborty S, Crane O, Hill K, McFarlan
 Cheyne S, Fraile Navarro D, Hill K, McDonald S, Tunnicliffe D, White H, **Whittle S**, et al. _Methods for Living Guidelines: Early Guidance based on practical experience. Paper 1: Introduction._ J Clin Epidemiol. 2023. doi:10.1016/j.jclinepi.2022.12.024
 
 `2022`  
-Synnot A, Hill K, Davey J, English K, **Whittle SL**, Buchbinder R, et al. _Methods for living guidelines: Early Guidance based on practical experience. Paper 2: Consumer engagement in living guidelines._ J Clin Epidemiol. 2022. [doi:10.1016/j.jclinepi.2022.12.020](doi:10.1016/j.jclinepi.2022.12.020)        
+Synnot A, Hill K, Davey J, English K, **Whittle SL**, Buchbinder R, et al. _Methods for living guidelines: Early Guidance based on practical experience. Paper 2: Consumer engagement in living guidelines._ J Clin Epidemiol. 2022. [doi:10.1016/j.jclinepi.2022.12.020](doi:10.1016/j.jclinepi.2022.12.020)   
+
 Tsakas JJ, Liew DFL, Adams CL, Hill CL, Proudman S, **Whittle S**, et al. _Attitudes and practices in the laboratory monitoring of conventional synthetic disease modifying anti-rheumatic drugs by rheumatologists and rheumatology trainees._ BMC Rheumatology. 2022;6: [1–8](https://bmcrheumatol.biomedcentral.com/articles/10.1186/s41927-022-00290-y).        
 
 Wang H, Dewidar O, **Whittle SL**, Ghogomu E, Hazlewood G, Leder K, et al. _Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases._ Arthritis Care Res. [2022](doi:10.1002/acr.25034)        
