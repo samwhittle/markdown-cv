@@ -213,6 +213,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
   [Initial DMARD therapy for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jDJelJ)  
   [Short-term bridging glucocorticoids in addition to DMARD therapy in RA](https://app.magicapp.org/#/guideline/LqRV3n/rec/EKeNq9)  
+  [Choice of DMARD in people with rheumatoid arthritis who have not responded to TNFi](https://app.magicapp.org/#/guideline/LqRV3n/section/EZ1WQy)   
   
   
   **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  
