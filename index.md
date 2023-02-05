@@ -20,13 +20,13 @@ South Australia 5011<br/>
 ## Qualifications
 
 `1997`
-**Bachelor of Medicine, Bachelor of Surgery (Honours)**, *University of Adelaide*  
+**Bachelor of Medicine, Bachelor of Surgery (Honours)** *University of Adelaide*  
 
 `2004`
 **Fellow of the Royal Australasian College of Physicians**   
 
 `2010`
-**Master of Clinical Epidemiology (with Distinction)**, *University of Newcastle*
+**Master of Clinical Epidemiology (with Distinction)** *University of Newcastle*
 
 ## Experience
 
@@ -221,7 +221,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   
   [bDMARDs or tsDMARDs in patients with juvenile idiopathic arthritis associated uveitis who have not responded to methotrexate](https://app.magicapp.org/#/guideline/nyxpZL/rec/EKeMqe)   
   [Methotrexate for the management of juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/ERl95X)   
-  [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)   
+  [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)  
+  [Intra-articular glucocorticoids for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jzoKg1)   
   
 
 ## Publications  
@@ -536,4 +537,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 24 January 2023<br/><br/>
+<br/>Last updated: 5 February 2023<br/><br/>
