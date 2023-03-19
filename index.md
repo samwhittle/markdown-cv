@@ -224,12 +224,15 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)  
   [Intra-articular glucocorticoids for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jzoKg1)   
   
+  
 
 ## Publications  
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2023`  
+Taylor WJ, Willink R, O’Connor DA, Patel V, Bourne A, Harris IA, **Whittle SL**, et al. _Which clinical research questions are the most important? Development and preliminary validation of the Australia & New Zealand Musculoskeletal (ANZMUSC) Clinical Trials Network Research Question Importance Tool (ANZMUSC-RQIT)._ PLoS One. 2023;18: [e0281308](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281308).    
+
 Lyon A, Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, et al. _Vaccination Rates, Perceptions, and Information Sources Used by People With Inflammatory Arthritis_. ACR Open Rheumatol. 2023. [doi:10.1002/acr2.11525](doi:10.1002/acr2.11525)    
 
 Cheyne S, Fraile Navarro D, Buttery AK, Chakraborty S, Crane O, Hill K, McFarlane E, Morgan RL, Mustafa RA, Poole A, Tunnicliffe D, Vogel JP, White H, **Whittle S**, Turner T. _Methods for Living Guidelines: Early Guidance based on practical experience. Paper 3: Selecting and prioritising questions for living guidelines._ J Clin Epidemiol. 2023. [doi:10.1016/j.jclinepi.2022.12.021](doi:10.1016/j.jclinepi.2022.12.021)   
@@ -537,4 +540,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 5 February 2023<br/><br/>
+<br/>Last updated: 19 March 2023<br/><br/>
