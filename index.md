@@ -94,7 +94,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Associate Editor, International Journal of Rheumatic Diseases**        
 
 `2016-2021, 2022-present`
-**Board Member, Australian Rheumatology Association**       
+**Board Director, Australian Rheumatology Association**       
 
 `2022-present`
 Member, College Council. The Royal Australasian College of Physicians    
@@ -152,14 +152,14 @@ Director, Physician Training, Queen Elizabeth Hospital
 
 ## Other Research Activity  
 
+`2022-present`
+Co-chair, OMERACT Shoulder Disorders Working Group  
+
 `2020`
 Chair of Judging Panel, RACP South Australian Trainee Research Awards   
 
 `2017-2018`
-Fellow, OMERACT Shoulder Disorders Working Group   
-
-`2022-present`
-Co-chair, OMERACT Shoulder Disorders Working Group   
+Fellow, OMERACT Shoulder Disorders Working Group      
 
 `2019`
 NZ Health Research Council Biomedical/Clinical Science Assessing Committee  
@@ -223,6 +223,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Methotrexate for the management of juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/ERl95X)   
   [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)  
   [Intra-articular glucocorticoids for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jzoKg1)   
+  [Oral vs subcutaneous methotrexate for children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Ea03yA)    
   
   
 
@@ -472,6 +473,13 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Invited talks
 
+`2023`
+_Advocacy for rheumatology in Australia_, Australian Rheumatology Association Annual Scientific Meeting, Hobart, May 2023   
+
+_Developing Recommendations in Rheumatology_, APLAR Mid-Term Symposium, Fukuoka, Japan, April 2023    
+
+_Applying evidence to the practice of rheumatology in the Asia Pacific region: challenges and opportunities_, 67th Annual Scientific Meeting of the Japan College of Rheumatology, Fukuoka, Japan, April 2023   
+
 `2022`
 Invited speaker, 24th Asia-Pacific League of Associations for Rheumatology Congress (APLAR 2022), Hong Kong, December 2022:   
 _"Back pain - a COPCORD community perspective. Management Strategies"_       
@@ -540,4 +548,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 19 March 2023<br/><br/>
+<br/>Last updated: 21 March 2023<br/><br/>
