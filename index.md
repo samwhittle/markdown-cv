@@ -152,6 +152,9 @@ Director, Physician Training, Queen Elizabeth Hospital
 
 ## Other Research Activity  
 
+`2023`
+NHMRC Investigator Grant Reviewer    
+
 `2022-present`
 Co-chair, OMERACT Shoulder Disorders Working Group  
 
@@ -167,8 +170,11 @@ NZ Health Research Council Biomedical/Clinical Science Assessing Committee
 `2016`
 Arthritis Research UK External Assessor  
 
-`2011 & 2012`
-NHMRC Grant Review Panel  
+`2011`
+NHMRC Grant Review Panellist    
+
+`2012`
+NHMRC Grant Review Panellist  
 
 `2011, 2013, 2014`
 NHMRC External Assessor   
@@ -232,6 +238,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2023`  
+Ng JQ, Jafarov TH, Little CB, Wang T, Ali A, Ma Y, ...**Whittle SL** et al. _Loss of Grem1-articular cartilage progenitor cells causes osteoarthritis._ bioRxiv. 2023. p. 2023.03.29.534651. [doi:10.1101/2023.03.29.534651](https://www.biorxiv.org/content/10.1101/2023.03.29.534651v1)    
+
 Buchbinder R, Glennon V, Johnston RV, Brennan SE, Fong C, Edward May S, ... **Whittle SL**. _Australian recommendations on perioperative use of disease-modifying anti-rheumatic drugs in people with inflammatory arthritis undergoing elective surgery_. Intern Med J. 2023. [doi:10.1111/imj.16073](https://onlinelibrary.wiley.com/doi/10.1111/imj.16073)  
 
 Taylor WJ, Willink R, O’Connor DA, Patel V, Bourne A, Harris IA, **Whittle SL**, et al. _Which clinical research questions are the most important? Development and preliminary validation of the Australia & New Zealand Musculoskeletal (ANZMUSC) Clinical Trials Network Research Question Importance Tool (ANZMUSC-RQIT)._ PLoS One. 2023;18: [e0281308](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281308).    
@@ -550,4 +558,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 18 April 2023<br/><br/>
+<br/>Last updated: 3 June 2023<br/><br/>
