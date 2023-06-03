@@ -85,22 +85,25 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
 
 `2021-present`
-**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**          
-
-`2021-present`
-**Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**   
-
-`2008-present`
-**Associate Editor, International Journal of Rheumatic Diseases**        
+**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
 
 `2016-2021, 2022-present`
 **Board Director, Australian Rheumatology Association**       
 
 `2022-present`
-Member, College Council. The Royal Australasian College of Physicians    
+**Member, College Council. The Royal Australasian College of Physicians**    
 
 `2022-present`
-Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)   
+**Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)**    
+
+`2023-present`
+**Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Chronic Pain Special Interest Group**      
+
+`2021-2023`
+Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition  
+
+`2008-2022`
+Associate Editor, International Journal of Rheumatic Diseases  
 
 `2012-2022`
 Arthritis SA Education, Research & Advocacy Committee   
