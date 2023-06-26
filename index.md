@@ -233,7 +233,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)  
   [Intra-articular glucocorticoids for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jzoKg1)   
   [Oral vs subcutaneous methotrexate for children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Ea03yA)    
-  [Local anaesthesia for intra-articular injections in children and young peoplw with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/jxQK5z)    
+  [Local anaesthesia for intra-articular injections in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/jxQK5z)    
   
   
 
