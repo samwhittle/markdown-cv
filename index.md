@@ -242,7 +242,9 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2023`  
-Ng JQ, Jafarov TH, Little CB, Wang T, Ali A, Ma Y, ...**Whittle SL** et al. _Loss of Grem1-articular cartilage progenitor cells causes osteoarthritis._ bioRxiv. 2023. p. 2023.03.29.534651. [doi:10.1101/2023.03.29.534651](https://www.biorxiv.org/content/10.1101/2023.03.29.534651v1)    
+Pisaniello HL, Lester S, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, **Whittle SL**, Hill CL. _Trajectories of self-reported pain-related health outcomes and longitudinal effects on medication use in rheumatoid arthritis: a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)._ RMD Open. 2023;9. [doi:10.1136/rmdopen-2022-002962](doi:10.1136/rmdopen-2022-002962)   
+
+Ng JQ, Jafarov TH, Little CB, Wang T, Ali A, Ma Y, ...**Whittle SL** et al. _Loss of Grem1-articular cartilage progenitor cells causes osteoarthritis._ bioRxiv. 2023. p. 2023.03.29.534651. [doi:10.1101/2023.03.29.534651](https://www.biorxiv.org/content/10.1101/2023.03.29.534651v1)     
 
 Buchbinder R, Glennon V, Johnston RV, Brennan SE, Fong C, Edward May S, ... **Whittle SL**. _Australian recommendations on perioperative use of disease-modifying anti-rheumatic drugs in people with inflammatory arthritis undergoing elective surgery_. Intern Med J. 2023. [doi:10.1111/imj.16073](https://onlinelibrary.wiley.com/doi/10.1111/imj.16073)  
 
@@ -389,7 +391,7 @@ Graf SW & **Whittle SL**. _Isotretinoin-induced skeletal hyperostosis._ Springer
 
 Moghaddami M, James M, **Whittle SL**, Cleland LG. _Synovial fluid myeloid dendritic cells display important differences compared to monocyte-derived dendritic cells prepared in vitro._ Clin Trans Immunol. 2014 Aug 8;3(8):e23.   
 
-Richards BL, **Whittle SL**, Buchbinder R, Barrett C, Lynch N, Major G, et al. _Australian and New Zealand evidence-based recommendations for pain management by pharmacotherapy in adult patients with inflammatory arthritis._ International Journal of Rheumatic Diseases [Internet]. 2014 [cited 2014 Jun 3]; Available from: http://onlinelibrary.wiley.com/doi/10.1111/1756-185X.12388/full  
+Richards BL, **Whittle SL**, Buchbinder R, Barrett C, Lynch N, Major G, et al. _Australian and New Zealand evidence-based recommendations for pain management by pharmacotherapy in adult patients with inflammatory arthritis._ International Journal of Rheumatic Diseases [Internet]. 2014 [cited 2014 Jun 3]   
 
 Robinson PC, Bird P, Lim I, Saad N, Schachna L, Taylor AL, **Whittle SL**, Brown MA. _Consensus statement on the investigation and management of non-radiographic axial spondyloarthritis (nr-axSpA)._ International Journal of Rheumatic Diseases. 2014 (epub ahead of print; DOI 10.1111/1756-185X.12358)  
 
@@ -562,4 +564,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 26 June 2023<br/><br/>
+<br/>Last updated: 31 July 2023<br/><br/>
