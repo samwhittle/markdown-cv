@@ -209,7 +209,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 **An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**: [mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)      
 
-  [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jOGV9j)  
+  [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/widget/recommendation/?gId=LqRV3n&recId=jMX49E&org=1&m=1&lb=1)  
   [Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
   [Psoriatic Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDS](https://app.magicapp.org/#/guideline/LqRV3n/section/j7gm0j)    
   [Opioids for Pain in Rheumatoid Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/Lrp8OE)   
