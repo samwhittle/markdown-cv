@@ -375,9 +375,9 @@ Mendel J, Goldacre B, Ernst E, **Whittle S**. Problems with ethical approval and
 
 Pisaniello HL & **Whittle SL**. _Fibromyalgia:  Finding the Silver Lining around a Common Chronic Pain Disorder._ Medicine Today 2016; 17(12): 54-56  
 
-Milman N, Hill CL, **Whittle SL**, El Sayad J, Wells GA. _Methotrexate for giant cell arteritis (protocol)._ In: Cochrane Database of Systematic Reviews [Internet]. John Wiley & Sons, Ltd; 2016 [cited 2016 May 26]. Available from: [http://onlinelibrary.wiley.com.proxy.library.adelaide.edu.au/doi/10.1002/14651858.CD005323.pub3/abstract](http://onlinelibrary.wiley.com.proxy.library.adelaide.edu.au/doi/10.1002/14651858.CD005323.pub3/abstract)     
+Milman N, Hill CL, **Whittle SL**, El Sayad J, Wells GA. _Methotrexate for giant cell arteritis (protocol)._ In: Cochrane Database of Systematic Reviews [Internet]. John Wiley & Sons, Ltd; 2016 [cited 2016 May 26](http://onlinelibrary.wiley.com.proxy.library.adelaide.edu.au/doi/10.1002/14651858.CD005323.pub3/abstract)     
 
-Milman N, **Whittle SL**, Hill CL, El Sayad J, Wells GA. _Methotrexate for polymyalgia rheumatica (protocol)._ In: Cochrane Database of Systematic Reviews [Internet]. John Wiley & Sons, Ltd; 2016 [cited 2016 May 26]. Available from: http://onlinelibrary.wiley.com.proxy.library.adelaide.edu.au/doi/10.1002/14651858.CD005325.pub3/abstract     
+Milman N, **Whittle SL**, Hill CL, El Sayad J, Wells GA. _Methotrexate for polymyalgia rheumatica (protocol)._ In: Cochrane Database of Systematic Reviews [Internet]. John Wiley & Sons, Ltd; 2016 [cited 2016 May 26](http://onlinelibrary.wiley.com.proxy.library.adelaide.edu.au/doi/10.1002/14651858.CD005325.pub3/abstract)         
 
 `2015`  
 Ting KH, Hill CL, **Whittle SL**. _Quality of reporting of interventional animal studies in rheumatology: a systematic review using the ARRIVE guidelines._ Int J Rheum Dis. 2015 Jun;18(5):488-94. doi: 10.1111/1756-185X.12699.  
