@@ -189,7 +189,7 @@ Dutch Organisation for Health Research and Development External Assessor
 
 ### PhD Students
 
-`2018-present`
+`2018-2023`
 Dr Huai Leng (Jessica) Pisaniello. University of Adelaide.  
 Co-supervisors: Professor Catherine Hill, Professor John Beltrame, Professor Will Dixon (Manchester)    
 
@@ -222,8 +222,10 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
   [Initial DMARD therapy for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jDJelJ)  
   [Short-term bridging glucocorticoids in addition to DMARD therapy in RA](https://app.magicapp.org/#/guideline/LqRV3n/rec/EKeNq9)  
-  [Choice of DMARD in people with rheumatoid arthritis who have not responded to TNFi](https://app.magicapp.org/#/guideline/LqRV3n/section/EZ1WQy)   
+  [Choice of DMARD in people with rheumatoid arthritis who have not responded to TNFi](https://app.magicapp.org/#/guideline/LqRV3n/section/EZ1WQy)    
   [Subcutaneous/intramuscular methotrexate versus oral methotrexate for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jmY2Gg)  
+  [Perioperative adjustment of glucocorticoids in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/LwrO9p)   
+  
   
   
   **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  
@@ -261,7 +263,7 @@ Synnot A, Hill K, Davey J, English K, **Whittle SL**, Buchbinder R, et al. _Meth
 
 Tsakas JJ, Liew DFL, Adams CL, Hill CL, Proudman S, **Whittle S**, et al. _Attitudes and practices in the laboratory monitoring of conventional synthetic disease modifying anti-rheumatic drugs by rheumatologists and rheumatology trainees._ BMC Rheumatology. 2022;6: [1–8](https://bmcrheumatol.biomedcentral.com/articles/10.1186/s41927-022-00290-y).        
 
-Wang H, Dewidar O, **Whittle SL**, Ghogomu E, Hazlewood G, Leder K, et al. _Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases._ Arthritis Care Res. [2022](doi:10.1002/acr.25034)         
+Wang H, Dewidar O, **Whittle SL**, Ghogomu E, Hazlewood G, Leder K, et al. _Equity considerations in COVID-19 vaccination studies of individuals with autoimmune inflammatory rheumatic diseases._ Arthritis Care Res. [2022](https://doi:10.1002/acr.25034)         
 
 Quinlivan A, Lester S, Barrett C, **Whittle SL**, Rowett D, Black R, Chand V, Marine F, March L, Sinnathurai P, Buchbinder R, Hill C. _Attitudes of Australians with Inflammatory Arthritis to Biologic Therapy and Biosimilars_. Rheumatology Advances in Practice 2022. 2022;6: rkac099.     
 
@@ -269,11 +271,11 @@ Pisaniello J, **Whittle SL**, Lester S, Menz F, Metcalf R, McWilliams L, Hill CL
 
 Tiller G, Renton WD, Tan J, **Whittle S**, Avery J, Munro J, et al. _Modified Delphi study to identify priority clinical questions for the Australian living guidelines for the management of Juvenile Idiopathic Arthritis_. Pediatr Rheumatol Online J. 2022;20: 52.  
 
-**Whittle SL**, Glennon V, Johnston RV, Avery JC, Bell JS, Brennan SE, et al. _Australian recommendations on tapering of biologic and targeted synthetic disease‐modifying anti‐rheumatic drugs in inflammatory arthritis_. Intern Med J. 2022. doi:10.1111/imj.15816
+**Whittle SL**, Glennon V, Johnston RV, Avery JC, Bell JS, Brennan SE, et al. _Australian recommendations on tapering of biologic and targeted synthetic disease‐modifying anti‐rheumatic drugs in inflammatory arthritis_. [Intern Med J. 2022](https://doi:10.1111/imj.15816).  
 
-Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, **Whittle SL**, et al. *Perioperative use of disease modifying anti‐rheumatic drugs (DMARDs) in people with inflammatory arthritis*. Cochrane Database Syst Rev. 2022 [cited 10 May 2022]. doi:10.1002/14651858.CD015096
+Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, **Whittle SL**, et al. *Perioperative use of disease modifying anti‐rheumatic drugs (DMARDs) in people with inflammatory arthritis*. Cochrane Database Syst Rev. 2022 [cited 10 May 2022]. [doi:10.1002/14651858.CD015096](https://doi:10.1002/14651858.CD015096)    
 
-Khoo T, Hill CL, Hoon E, **Whittle S**. *Patient Perspectives of Disease Activity, Medications and Substance Use in People with Fibromyalgia*. Open Access Rheumatol. 2022;14:87-95 https://doi.org/10.2147/OARRR.S361804
+Khoo T, Hill CL, Hoon E, **Whittle S**. *Patient Perspectives of Disease Activity, Medications and Substance Use in People with Fibromyalgia*. Open Access Rheumatol. [2022;14:87-95](https://doi.org/10.2147/OARRR.S361804)   
 
 Lee C, Thomas M, Ejaredar, Kassam A, **Whittle SL**, Buchbinder R, et al. _Crowdsourcing trainees in a living systematic review provided valuable experiential learning opportunities: A mixed-methods study_. J Clin Epidemiol. 2022 Jul;147:142-150. [doi: 10.1016/j.jclinepi.2022.03.019](https://doi.org/10.1016/j.jclinepi.2022.03.019)    
 
@@ -281,7 +283,7 @@ Lalor AF, Brooker JE, Rozbroj T, **Whittle SL**, Hill CL, Rowett D, et al. *Fact
 
 Khoo T, Chin A, **Whittle S**. *Fibromyalgia: small steps on a long journey*. Med Today. 2022 [cited 17 Feb 2022]. Available: https://medicinetoday.com.au/2022/jan-feb/regular-series/fibromyalgia-small-steps-long-journey
 
-Renton WD, Tiller G, Munro J, Tan J, Johnston RV, Avery JC, **Whittle SL**, Arno A, Buchbinder R. *Dose reduction and discontinuation of disease‐modifying anti‐rheumatic drugs (DMARDs) for juvenile idiopathic arthritis (protocol)*. Cochrane Database Syst Rev. 2022 [cited 27 Jan 2022]. doi:10.1002/14651858.CD014961
+Renton WD, Tiller G, Munro J, Tan J, Johnston RV, Avery JC, **Whittle SL**, Arno A, Buchbinder R. *Dose reduction and discontinuation of disease‐modifying anti‐rheumatic drugs (DMARDs) for juvenile idiopathic arthritis (protocol)*. Cochrane Database Syst Rev. 2022 [cited 27 Jan 2022](https://doi:10.1002/14651858.CD014961)    
 
 `2021`  
 McKenzie BJ, **Whittle SL**, Johnston RV, Hill CL, Pardo JP, Glennon V, et al. *Long‐term glucocorticoids for rheumatoid arthritis (protocol)*. Cochrane Database Syst Rev. 2021 [cited 27 Jan 2022]. doi:10.1002/14651858.CD014899
@@ -564,4 +566,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 31 July 2023<br/><br/>
+<br/>Last updated: 8 August 2023<br/><br/>
