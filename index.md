@@ -454,6 +454,9 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Grants and funding
 
+`2024`
+**Arthritis Australia Project Grant** (CI): *Living clinical practice guidelines for management of rotator cuff related shoulder pain: Priority questions* ($45,000)   
+
 `2022-2026`
 **MRFF Emerging Priorities and Consumer Driven Research Initiative** (APP2016105) (CII): *A3BC for Kids* ($2,496,875.50)  
 
@@ -566,4 +569,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 8 August 2023<br/><br/>
+<br/>Last updated: 10 September 2023<br/><br/>
