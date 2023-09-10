@@ -99,6 +99,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2023-present`
 **Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Chronic Pain Special Interest Group**      
 
+`2023`
+Expert Panel Member, Australian Commission in Safety and Quality and Healthcare recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain  
+
 `2021-2023`
 Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition  
 
