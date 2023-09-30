@@ -239,6 +239,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Intra-articular glucocorticoids for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jzoKg1)   
   [Oral vs subcutaneous methotrexate for children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Ea03yA)    
   [Local anaesthesia for intra-articular injections in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/jxQK5z)    
+  [Foot orthoses in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jOplG7)   
   
   
 
