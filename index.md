@@ -81,9 +81,6 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2019-2024`
 **Editorial Board Member, Cochrane Musculoskeletal**  
 
-`2021-2024` 
-**Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network**   
-
 `2021-present`
 **Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
 
@@ -98,6 +95,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 `2023-present`
 **Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Chronic Pain Special Interest Group**      
+
+`2021-2024` 
+Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network   
 
 `2023`
 Expert Panel Member, Australian Commission in Safety and Quality and Healthcare recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain  
@@ -498,6 +498,8 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 ## Invited talks
 
 `2023`
+_Advances in spondyloarthritis diagnosis and treatment_, APLAR Patronage Program, Hanoi, Vietnam, September 2023  
+
 _Advocacy for rheumatology in Australia_, Australian Rheumatology Association Annual Scientific Meeting, Hobart, May 2023   
 
 _Developing Recommendations in Rheumatology_, APLAR Mid-Term Symposium, Fukuoka, Japan, April 2023    
@@ -572,4 +574,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 10 September 2023<br/><br/>
+<br/>Last updated: 1 October 2023<br/><br/>
