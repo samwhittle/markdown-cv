@@ -88,7 +88,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Board Director, Australian Rheumatology Association**       
 
 `2022-present`
-**Member, College Council. The Royal Australasian College of Physicians**    
+**Member, College Council, The Royal Australasian College of Physicians**    
 
 `2022-present`
 **Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)**    
