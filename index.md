@@ -248,7 +248,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2023`  
-**Whittle SL**, Glennon V, Buchbinder R. _Prioritization of clinical questions for the Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis._ Int J Rheum Dis. 2023. [doi:10.1111/1756-185X.14926](doi:10.1111/1756-185X.14926)    
+**Whittle SL**, Glennon V, Buchbinder R. _Prioritization of clinical questions for the Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis._ Int J Rheum Dis. 2023. [doi:10.1111/1756-185X.14926](https://doi.org/10.1111/1756-185x.14926)       
 
 Pisaniello HL, Lester S, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, **Whittle SL**, Hill CL. _Trajectories of self-reported pain-related health outcomes and longitudinal effects on medication use in rheumatoid arthritis: a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)._ RMD Open. 2023;9. [doi:10.1136/rmdopen-2022-002962](doi:10.1136/rmdopen-2022-002962)   
 
