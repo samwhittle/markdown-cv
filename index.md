@@ -248,6 +248,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2023`  
+Kamso MM, Pardo JP, **Whittle SL**, Buchbinder R, Wells G, Glennon V,Tugwell P, Deardon R, Sajobi T, Tomlinson G, Jesse E, Kelly SE, Hazlewood GS. _Crowd-sourcing and automation facilitated the identification and classification of randomized controlled trials in a living review._ J Clin Epidemiol (2023), [doi: https://doi.org/10.1016/j.jclinepi.2023.10.007](https://doi.org/10.1016/j.jclinepi.2023.10.00).   
+
 **Whittle SL**, Glennon V, Buchbinder R. _Prioritization of clinical questions for the Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis._ Int J Rheum Dis. 2023. [doi:10.1111/1756-185X.14926](https://doi.org/10.1111/1756-185x.14926)       
 
 Pisaniello HL, Lester S, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, **Whittle SL**, Hill CL. _Trajectories of self-reported pain-related health outcomes and longitudinal effects on medication use in rheumatoid arthritis: a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)._ RMD Open. 2023;9. [doi:10.1136/rmdopen-2022-002962](doi:10.1136/rmdopen-2022-002962)   
@@ -577,4 +579,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 10 October 2023<br/><br/>
+<br/>Last updated: 21 October 2023<br/><br/>
