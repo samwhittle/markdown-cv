@@ -231,7 +231,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   
   
   
-  **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  
+  **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**: [jia.guide](https://app.magicapp.org/#/guideline/nyxpZL)    
   
   [bDMARDs or tsDMARDs in patients with juvenile idiopathic arthritis associated uveitis who have not responded to methotrexate](https://app.magicapp.org/#/guideline/nyxpZL/rec/EKeMqe)   
   [Methotrexate for the management of juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/ERl95X)   
