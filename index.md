@@ -579,4 +579,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 21 October 2023<br/><br/>
+<br/>Last updated: 24 October 2023<br/><br/>
