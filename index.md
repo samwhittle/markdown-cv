@@ -248,13 +248,14 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2023`  
+
+Ng JQ, Jafarov TH, Little CB, Wang T, Ali AM, Ma Y, ...**Whittle SL**, et al. _Loss of Grem1-lineage chondrogenic progenitor cells causes osteoarthritis._ Nat Commun. 2023;14: 1–14. [doi.org/10.1038/s41467-023-42199-1](https://doi.org/10.1038/s41467-023-42199-1)  
+
 Kamso MM, Pardo JP, **Whittle SL**, Buchbinder R, Wells G, Glennon V,Tugwell P, Deardon R, Sajobi T, Tomlinson G, Jesse E, Kelly SE, Hazlewood GS. _Crowd-sourcing and automation facilitated the identification and classification of randomized controlled trials in a living review._ J Clin Epidemiol (2023), [doi: https://doi.org/10.1016/j.jclinepi.2023.10.007](https://doi.org/10.1016/j.jclinepi.2023.10.00).   
 
 **Whittle SL**, Glennon V, Buchbinder R. _Prioritization of clinical questions for the Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis._ Int J Rheum Dis. 2023. [doi:10.1111/1756-185X.14926](https://doi.org/10.1111/1756-185x.14926)       
 
-Pisaniello HL, Lester S, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, **Whittle SL**, Hill CL. _Trajectories of self-reported pain-related health outcomes and longitudinal effects on medication use in rheumatoid arthritis: a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)._ RMD Open. 2023;9. [doi:10.1136/rmdopen-2022-002962](doi:10.1136/rmdopen-2022-002962)   
-
-Ng JQ, Jafarov TH, Little CB, Wang T, Ali A, Ma Y, ...**Whittle SL** et al. _Loss of Grem1-articular cartilage progenitor cells causes osteoarthritis._ bioRxiv. 2023. p. 2023.03.29.534651. [doi:10.1101/2023.03.29.534651](https://www.biorxiv.org/content/10.1101/2023.03.29.534651v1)     
+Pisaniello HL, Lester S, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, **Whittle SL**, Hill CL. _Trajectories of self-reported pain-related health outcomes and longitudinal effects on medication use in rheumatoid arthritis: a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)._ RMD Open. 2023;9. [doi:10.1136/rmdopen-2022-002962](doi:10.1136/rmdopen-2022-002962)       
 
 Buchbinder R, Glennon V, Johnston RV, Brennan SE, Fong C, Edward May S, ... **Whittle SL**. _Australian recommendations on perioperative use of disease-modifying anti-rheumatic drugs in people with inflammatory arthritis undergoing elective surgery_. Intern Med J. 2023. [doi:10.1111/imj.16073](https://onlinelibrary.wiley.com/doi/10.1111/imj.16073)  
 
@@ -579,4 +580,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 24 October 2023<br/><br/>
+<br/>Last updated: 31 October 2023<br/><br/>
