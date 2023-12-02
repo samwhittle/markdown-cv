@@ -121,7 +121,7 @@ Steering Committee Member, National Strategic Action Plan for Arthritis
 President, Australian Rheumatology Association South Australian Branch     
 
 Other Australian Rheumatology Association Committees:  
-  `2022-present`
+  `2022-2023`
     Chair, Policy & Advocacy Committee   
   `2019-2022`
     Chair, Clinical Resources Committee    
@@ -253,7 +253,7 @@ Ng JQ, Jafarov TH, Little CB, Wang T, Ali AM, Ma Y, ...**Whittle SL**, et al. _L
 
 Kamso MM, Pardo JP, **Whittle SL**, Buchbinder R, Wells G, Glennon V,Tugwell P, Deardon R, Sajobi T, Tomlinson G, Jesse E, Kelly SE, Hazlewood GS. _Crowd-sourcing and automation facilitated the identification and classification of randomized controlled trials in a living review._ J Clin Epidemiol (2023), [doi: https://doi.org/10.1016/j.jclinepi.2023.10.007](https://doi.org/10.1016/j.jclinepi.2023.10.00).   
 
-**Whittle SL**, Glennon V, Buchbinder R. _Prioritization of clinical questions for the Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis._ Int J Rheum Dis. 2023. [doi:10.1111/1756-185X.14926](https://doi.org/10.1111/1756-185x.14926)       
+**Whittle SL**, Glennon V, Buchbinder R. _Prioritization of clinical questions for the Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis._ Int J Rheum Dis. 2023; 26: 2410-2418 [doi:10.1111/1756-185X.14926](https://doi.org/10.1111/1756-185x.14926)       
 
 Pisaniello HL, Lester S, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, **Whittle SL**, Hill CL. _Trajectories of self-reported pain-related health outcomes and longitudinal effects on medication use in rheumatoid arthritis: a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)._ RMD Open. 2023;9. [doi:10.1136/rmdopen-2022-002962](doi:10.1136/rmdopen-2022-002962)       
 
@@ -478,8 +478,8 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 `2020-2021`
 **Therapeutic Guidelines Ltd (TGL)/RACGP Foundation Research Grant** (TGL-03) (CI): *Use of Osteoarthritis Guidelines in General Practice: An Analysis of Work-as-Done Using the Functional Resonance Analysis Method*. ($19,968) 
 
-`2018-2021`
-**ANZMUSC Practitioner Fellowship** ($398,520) 
+`2018-2024`
+**ANZMUSC Practitioner Fellowship** ($797,040)  
 
 `2018` 
 **Arthritis Australia Project Grant**  (CIB): *Community perceptions of rheumatoid arthritis pharmacotherapy: an analysis of social media platforms* ($35,000)        
@@ -580,4 +580,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 31 October 2023<br/><br/>
+<br/>Last updated: 3 December 2023<br/><br/>
