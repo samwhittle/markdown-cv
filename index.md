@@ -488,6 +488,9 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Awards and Honours
 
+`2023`
+**Derek Frewin Award for Teaching**, The University of Adelaide   
+
 `2017`
 **Best Clinical Science Free Paper**, Australian Rheumatology Association Annual Scientific Meeting, Auckland, May 2017 (_The DAS28-P Index as a predictor of poor subjective response to DMARD therapy in early rheumatoid arthritis_) 
 
