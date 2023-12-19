@@ -251,7 +251,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 Ng JQ, Jafarov TH, Little CB, Wang T, Ali AM, Ma Y, ...**Whittle SL**, et al. _Loss of Grem1-lineage chondrogenic progenitor cells causes osteoarthritis._ Nat Commun. 2023;14: 1–14. [doi.org/10.1038/s41467-023-42199-1](https://doi.org/10.1038/s41467-023-42199-1)  
 
-Kamso MM, Pardo JP, **Whittle SL**, Buchbinder R, Wells G, Glennon V,Tugwell P, Deardon R, Sajobi T, Tomlinson G, Jesse E, Kelly SE, Hazlewood GS. _Crowd-sourcing and automation facilitated the identification and classification of randomized controlled trials in a living review._ J Clin Epidemiol (2023), [doi: https://doi.org/10.1016/j.jclinepi.2023.10.007](https://doi.org/10.1016/j.jclinepi.2023.10.00).   
+Kamso MM, Pardo JP, **Whittle SL**, Buchbinder R, Wells G, Glennon V,Tugwell P, Deardon R, Sajobi T, Tomlinson G, Jesse E, Kelly SE, Hazlewood GS. _Crowd-sourcing and automation facilitated the identification and classification of randomized controlled trials in a living review._ J Clin Epidemiol. 2023 Dec;164:1-8. [doi: https://doi.org/10.1016/j.jclinepi.2023.10.007](https://doi.org/10.1016/j.jclinepi.2023.10.00). Epub 2023 Oct 21.     
 
 **Whittle SL**, Glennon V, Buchbinder R. _Prioritization of clinical questions for the Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis._ Int J Rheum Dis. 2023; 26: 2410-2418 [doi:10.1111/1756-185X.14926](https://doi.org/10.1111/1756-185x.14926)       
 
@@ -583,4 +583,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 13 December 2023<br/><br/>
+<br/>Last updated: 19 December 2023<br/><br/>
