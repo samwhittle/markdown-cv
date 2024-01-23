@@ -228,6 +228,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
   [Choice of DMARD in people with rheumatoid arthritis who have not responded to TNFi](https://app.magicapp.org/#/guideline/LqRV3n/section/EZ1WQy)    
   [Subcutaneous/intramuscular methotrexate versus oral methotrexate for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jmY2Gg)  
   [Perioperative adjustment of glucocorticoids in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/LwrO9p)   
+  [Rheumatoid arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/rec/jboYWY)   
   
   
   
@@ -583,4 +584,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 19 December 2023<br/><br/>
+<br/>Last updated: 23 January 2024<br/><br/>
