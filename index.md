@@ -249,13 +249,10 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2024`   
-
-
 Tan J, Renton WD, **Whittle SL**, Takken T, Johnston RV, Tiller G, et al. _Methotrexate for juvenile idiopathic arthritis._ Cochrane Libr. 2024;2024. [doi:10.1002/14651858.cd003129.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003129.pub2/full)  
   
 
 `2023`  
-
 Ng JQ, Jafarov TH, Little CB, Wang T, Ali AM, Ma Y, ...**Whittle SL**, et al. _Loss of Grem1-lineage chondrogenic progenitor cells causes osteoarthritis._ Nat Commun. 2023;14: 1–14. [doi.org/10.1038/s41467-023-42199-1](https://doi.org/10.1038/s41467-023-42199-1)  
 
 Kamso MM, Pardo JP, **Whittle SL**, Buchbinder R, Wells G, Glennon V,Tugwell P, Deardon R, Sajobi T, Tomlinson G, Jesse E, Kelly SE, Hazlewood GS. _Crowd-sourcing and automation facilitated the identification and classification of randomized controlled trials in a living review._ J Clin Epidemiol. 2023 Dec;164:1-8. [doi: https://doi.org/10.1016/j.jclinepi.2023.10.007](https://doi.org/10.1016/j.jclinepi.2023.10.00). Epub 2023 Oct 21.     
