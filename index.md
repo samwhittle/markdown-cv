@@ -81,8 +81,8 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2019-2024`
 **Editorial Board Member, Cochrane Musculoskeletal**  
 
-`2021-present`
-**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
+`2023-present`
+**Co-Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
 
 `2016-2021, 2022-present`
 **Board Director, Australian Rheumatology Association**       
@@ -110,6 +110,9 @@ Associate Editor, International Journal of Rheumatic Diseases
 
 `2012-2022`
 Arthritis SA Education, Research & Advocacy Committee   
+
+`2021-2023`
+Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee   
 
 `2021`
 Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee 
@@ -587,4 +590,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 11 February 2024<br/><br/>
+<br/>Last updated: 13 February 2024<br/><br/>
