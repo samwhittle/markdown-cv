@@ -253,6 +253,9 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2024`   
+Mittinty MM, Mittinty MN, Buchbinder R, Lassere M, Chand V, **Whittle S**, et al. _Interpersonal process of dyadic coping in rheumatoid arthritis: a perspective from the Australian Rheumatology Association Database (ARAD)_. J Rheumatol. 2024; jrheum.2023-0664.
+   
+
 Tan J, Renton WD, **Whittle SL**, Takken T, Johnston RV, Tiller G, et al. _Methotrexate for juvenile idiopathic arthritis._ Cochrane Libr. 2024;2024. [doi:10.1002/14651858.cd003129.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003129.pub2/full)  
   
 
@@ -591,4 +594,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 16 April 2024<br/><br/>
+<br/>Last updated: 9 May 2024<br/><br/>
