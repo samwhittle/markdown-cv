@@ -72,14 +72,11 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 ## Professional Service  
 
-`2022-2024`
-**Vice President, Australian Rheumatology Association**   
+`2024-2026`
+**President, Australian Rheumatology Association**  
 
 `2014-present`
-**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**  
-
-`2019-2024`
-**Editorial Board Member, Cochrane Musculoskeletal**  
+**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**   
 
 `2023-present`
 **Co-Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
@@ -96,8 +93,14 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2023-present`
 **Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Chronic Pain Special Interest Group**      
 
+`2022-2024`
+Vice President, Australian Rheumatology Association     
+
 `2021-2024` 
 Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network   
+
+`2019-2024`
+Editorial Board Member, Cochrane Musculoskeletal  
 
 `2023`
 Expert Panel Member, Australian Commission in Safety and Quality and Healthcare recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain  
@@ -594,4 +597,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 9 May 2024<br/><br/>
+<br/>Last updated: 22 May 2024<br/><br/>
