@@ -256,9 +256,12 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2024`   
-Mittinty MM, Mittinty MN, Buchbinder R, Lassere M, Chand V, **Whittle S**, et al. _Interpersonal process of dyadic coping in rheumatoid arthritis: a perspective from the Australian Rheumatology Association Database (ARAD)_. J Rheumatol. 2024; jrheum.2023-0664.
+
+Pisaniello HL, Lester SE, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, Hill C, **Whittle SL**. _The associations between poorer pain-related health status and increased hospitalisations and excess mortality in patients with rheumatoid arthritis (RA): a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)_. Ann Rheum Dis. 2024; [ard-2024-225696](https://doi.org/10.1136/ard-2024-225696).
    
 
+Mittinty MM, Mittinty MN, Buchbinder R, Lassere M, Chand V, **Whittle S**, et al. _Interpersonal process of dyadic coping in rheumatoid arthritis: a perspective from the Australian Rheumatology Association Database (ARAD)_. J Rheumatol. 2024; jrheum.2023-0664.
+   
 Tan J, Renton WD, **Whittle SL**, Takken T, Johnston RV, Tiller G, et al. _Methotrexate for juvenile idiopathic arthritis._ Cochrane Libr. 2024;2024. [doi:10.1002/14651858.cd003129.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003129.pub2/full)  
   
 
@@ -597,4 +600,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 22 May 2024<br/><br/>
+<br/>Last updated: 31 May 2024<br/><br/>
