@@ -103,10 +103,7 @@ Steering Committee Member, South Australian Commission on Excellence and Innovat
 Editorial Board Member, Cochrane Musculoskeletal  
 
 `2023`
-Expert Panel Member, Australian Commission in Safety and Quality and Healthcare recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain  
-
-`2021-2023`
-Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition  
+Expert Panel Member, Australian Commission in Safety and Quality and Healthcare recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain    
 
 `2008-2022`
 Associate Editor, International Journal of Rheumatic Diseases  
@@ -161,6 +158,22 @@ RACP Educational Supervisor
 `2006-2008`
 Director, Physician Training, Queen Elizabeth Hospital 
 
+## Clinical Practice Guideline Development   
+
+`2018-present`
+**Lead developer, Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis** ([mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)) and **Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  ([jia.guide](https://app.magicapp.org/#/guideline/nyxpZL))  
+
+`2024-2025`
+**Expert working group member, RACGP Guideline for the management of knee and hip osteoarthritis**   
+
+`2021-2023`
+**Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**
+
+`2018`
+Expert working group member, RACGP Guideline for the management of knee and hip osteoarthritis  
+
+`2017`
+Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 3rd Edition   
 
 ## Other Research Activity  
 
@@ -213,42 +226,6 @@ Co-supervisor: A/Prof Helen Keen (UWA)
 Judith Lowe. University of Adelaide.  
 Co-supervisor: Prof Andrew Briggs (Curtin University)    
 
-
-## Living Guidelines  
-
-**An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**: [mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)      
-
-  [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/widget/recommendation/?gId=LqRV3n&recId=jMX49E&org=1&m=1&lb=1)  
-  [Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
-  [Psoriatic Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDS](https://app.magicapp.org/#/guideline/LqRV3n/section/j7gm0j)    
-  [Opioids for Pain in Rheumatoid Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/Lrp8OE)   
-  [Opioids for Pain in Axial Spondyloarthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/no78pn)   
-  [Opioids for Pain in Psoriatic Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/nJwamE)   
-  [COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)     
-  [COVID-19 additional (third) primary dose vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/jboyY9)   
-  [Long-term use of low dose glucocorticoids in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/EQDv5n)  
-  [Short-term use of glucocorticoids for treating flare in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jzVWRj)  
-  [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
-  [Initial DMARD therapy for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jDJelJ)  
-  [Short-term bridging glucocorticoids in addition to DMARD therapy in RA](https://app.magicapp.org/#/guideline/LqRV3n/rec/EKeNq9)  
-  [Choice of DMARD in people with rheumatoid arthritis who have not responded to TNFi](https://app.magicapp.org/#/guideline/LqRV3n/section/EZ1WQy)    
-  [Subcutaneous/intramuscular methotrexate versus oral methotrexate for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jmY2Gg)  
-  [Perioperative adjustment of glucocorticoids in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/LwrO9p)   
-  [Rheumatoid arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/rec/jboYWY)   
-  [Psoriatic Arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jz77kg)   
-  
-  
-  
-  **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**: [jia.guide](https://app.magicapp.org/#/guideline/nyxpZL)    
-  
-  [bDMARDs or tsDMARDs in patients with juvenile idiopathic arthritis associated uveitis who have not responded to methotrexate](https://app.magicapp.org/#/guideline/nyxpZL/rec/EKeMqe)   
-  [Methotrexate for the management of juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/ERl95X)   
-  [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)  
-  [Intra-articular glucocorticoids for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jzoKg1)   
-  [Oral vs subcutaneous methotrexate for children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Ea03yA)    
-  [Local anaesthesia for intra-articular injections in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/jxQK5z)    
-  [Foot orthoses in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jOplG7)   
-  
   
 
 ## Publications  
@@ -477,7 +454,40 @@ Mangat P, **Whittle S**, Cleland L, Limaye V. _Digital vasculitis: a late compli
 `1996`  
 Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiographic changes in the knee after meniscal transplantation. An experimental study in a sheep model._ Am J Sports Med. 1996 Apr;24(2):222–6.
 
+## Living Guideline Recommendations   
 
+**An Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis**: [mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)      
+
+  [Rheumatoid Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDs](https://app.magicapp.org/widget/recommendation/?gId=LqRV3n&recId=jMX49E&org=1&m=1&lb=1)  
+  [Axial Spondyloarthritis: Dose Reduction or Discontinuation of bDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/n3NGgL)  
+  [Psoriatic Arthritis: Dose Reduction or Discontinuation of bDMARDs and tsDMARDS](https://app.magicapp.org/#/guideline/LqRV3n/section/j7gm0j)    
+  [Opioids for Pain in Rheumatoid Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/Lrp8OE)   
+  [Opioids for Pain in Axial Spondyloarthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/no78pn)   
+  [Opioids for Pain in Psoriatic Arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/nJwamE)   
+  [COVID-19 vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/nY9yPn)     
+  [COVID-19 additional (third) primary dose vaccination for people with autoimmune inflammatory rheumatic diseases on immunomodulatory therapies](https://app.magicapp.org/#/guideline/LqRV3n/section/jboyY9)   
+  [Long-term use of low dose glucocorticoids in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/EQDv5n)  
+  [Short-term use of glucocorticoids for treating flare in rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jzVWRj)  
+  [Perioperative use of DMARDs in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/j7AAxl)  
+  [Initial DMARD therapy for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jDJelJ)  
+  [Short-term bridging glucocorticoids in addition to DMARD therapy in RA](https://app.magicapp.org/#/guideline/LqRV3n/rec/EKeNq9)  
+  [Choice of DMARD in people with rheumatoid arthritis who have not responded to TNFi](https://app.magicapp.org/#/guideline/LqRV3n/section/EZ1WQy)    
+  [Subcutaneous/intramuscular methotrexate versus oral methotrexate for people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/jmY2Gg)  
+  [Perioperative adjustment of glucocorticoids in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/LwrO9p)   
+  [Rheumatoid arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/rec/jboYWY)   
+  [Psoriatic Arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jz77kg)   
+
+**An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**: [jia.guide](https://app.magicapp.org/#/guideline/nyxpZL)    
+  
+  [bDMARDs or tsDMARDs in patients with juvenile idiopathic arthritis associated uveitis who have not responded to methotrexate](https://app.magicapp.org/#/guideline/nyxpZL/rec/EKeMqe)   
+  [Methotrexate for the management of juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/ERl95X)   
+  [Short‐term adjunctive induction glucocorticoids for non-systemic juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Lrv45Y)  
+  [Intra-articular glucocorticoids for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jzoKg1)   
+  [Oral vs subcutaneous methotrexate for children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Ea03yA)    
+  [Local anaesthesia for intra-articular injections in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/jxQK5z)    
+  [Foot orthoses in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jOplG7)   
+  
+  
 ## Grants and funding
 
 `2024`
@@ -522,6 +532,9 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 
 ## Invited talks
+
+`2024`
+_Crowd sourcing for systemic reviews_, APLAR Congress, Singapore, August 2024   
 
 `2023`
 _Advances in spondyloarthritis diagnosis and treatment_, APLAR Patronage Program, Hanoi, Vietnam, September 2023  
@@ -600,4 +613,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 31 May 2024<br/><br/>
+<br/>Last updated: 5 June 2024<br/><br/>
