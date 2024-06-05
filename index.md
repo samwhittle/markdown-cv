@@ -81,10 +81,13 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2023-present`
 **Co-Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
 
+`2024-present`
+**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Scientific Committee**   
+
 `2016-2021, 2022-present`
 **Board Director, Australian Rheumatology Association**       
 
-`2022-present`
+`2022-2024`
 **Member, College Council, The Royal Australasian College of Physicians**    
 
 `2022-present`
@@ -161,7 +164,9 @@ Director, Physician Training, Queen Elizabeth Hospital
 ## Clinical Practice Guideline Development   
 
 `2018-present`
-**Lead developer, Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis** ([mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n)) and **Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  ([jia.guide](https://app.magicapp.org/#/guideline/nyxpZL))  
+**Lead developer**:  
+**Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis** ([mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n))  
+**Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  ([jia.guide](https://app.magicapp.org/#/guideline/nyxpZL))  
 
 `2024-2025`
 **Expert working group member, RACGP Guideline for the management of knee and hip osteoarthritis**   
