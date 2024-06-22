@@ -87,8 +87,8 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2016-2021, 2022-present`
 **Board Director, Australian Rheumatology Association**       
 
-`2022-2024`
-**Member, College Council, The Royal Australasian College of Physicians**    
+`2024-2026`
+**Member, Adult Medicine Division Council, The Royal Australasian College of Physicians**    
 
 `2022-present`
 **Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)**    
@@ -98,6 +98,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 `2022-2024`
 Vice President, Australian Rheumatology Association     
+
+`2022-2024`
+Member, College Council, The Royal Australasian College of Physicians   
 
 `2021-2024` 
 Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network   
