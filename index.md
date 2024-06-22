@@ -241,7 +241,6 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 Pisaniello HL, Lester SE, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, Hill C, **Whittle SL**. _The associations between poorer pain-related health status and increased hospitalisations and excess mortality in patients with rheumatoid arthritis (RA): a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)_. Ann Rheum Dis. 2024; [ard-2024-225696](https://doi.org/10.1136/ard-2024-225696).
    
-
 Mittinty MM, Mittinty MN, Buchbinder R, Lassere M, Chand V, **Whittle S**, et al. _Interpersonal process of dyadic coping in rheumatoid arthritis: a perspective from the Australian Rheumatology Association Database (ARAD)_. J Rheumatol. 2024; jrheum.2023-0664.
    
 Tan J, Renton WD, **Whittle SL**, Takken T, Johnston RV, Tiller G, et al. _Methotrexate for juvenile idiopathic arthritis._ Cochrane Libr. 2024;2024. [doi:10.1002/14651858.cd003129.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003129.pub2/full)  
@@ -491,6 +490,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
   [Oral vs subcutaneous methotrexate for children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/Ea03yA)    
   [Local anaesthesia for intra-articular injections in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/rec/jxQK5z)    
   [Foot orthoses in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jOplG7)   
+  [Exercise therapy in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/LwR5Gp)   
   
   
 ## Grants and funding
@@ -618,4 +618,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 5 June 2024<br/><br/>
+<br/>Last updated: 22 June 2024<br/><br/>
