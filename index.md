@@ -454,15 +454,15 @@ Hill CL, Cole A, Lester S, **Whittle SL**. _Steroid sparing drug treatments for 
 Mangat P, **Whittle S**, Cleland L, Limaye V. _Digital vasculitis: a late complication of anti-tumour necrosis factor alpha therapy._ Clin. Rheumatol. 2008 Dec;27(12):1593–5.      
 
 `2004`  
-4 **Whittle SL**, Hughes RA. _Folate supplementation and methotrexate treatment in rheumatoid arthritis: a review._ Rheumatology (Oxford). 2004 Mar;43(3):267–71.  
+**Whittle SL**, Hughes RA. _Folate supplementation and methotrexate treatment in rheumatoid arthritis: a review._ Rheumatology (Oxford). 2004 Mar;43(3):267–71.  
 
-3 **Whittle SL**, Hughes RA. _Methotrexate and folic acid: what is the optimal combination?_ (Letter). Rheumatology (Oxford). 2004 Aug; 43(8): 1061  
+**Whittle SL**, Hughes RA. _Methotrexate and folic acid: what is the optimal combination?_ (Letter). Rheumatology (Oxford). 2004 Aug; 43(8): 1061  
 
 `2002`  
-2 **Whittle SL**, James M, Cleland LG. _Focus on Meloxicam_ (Review). Medicine Today 2002; 3(9): 73-76     
+**Whittle SL**, James M, Cleland LG. _Focus on Meloxicam_ (Review). Medicine Today 2002; 3(9): 73-76     
 
 `1996`  
-1 Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiographic changes in the knee after meniscal transplantation. An experimental study in a sheep model._ Am J Sports Med. 1996 Apr;24(2):222–6.
+Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiographic changes in the knee after meniscal transplantation. An experimental study in a sheep model._ Am J Sports Med. 1996 Apr;24(2):222–6.
 
 ## Living Guideline Recommendations   
 
