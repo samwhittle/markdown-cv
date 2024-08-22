@@ -79,6 +79,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**   
 
 `2023-present`
+**Executive Committee Member, Asia Pacific League of Associations for Rheumatology (APLAR)**  
+
+`2023-present`
 **Co-Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
 
 `2024-present`
@@ -624,4 +627,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 5 July 2024<br/><br/>
+<br/>Last updated: 22 August 2024<br/><br/>
