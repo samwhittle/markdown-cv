@@ -489,6 +489,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
   [Perioperative adjustment of glucocorticoids in people with inflammatory arthritis](https://app.magicapp.org/#/guideline/LqRV3n/section/LwrO9p)   
   [Rheumatoid arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/rec/jboYWY)   
   [Psoriatic Arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jz77kg)   
+  [Dose reduction or discontinuation of b/tsDMARDs versus dose reduction or discontinuation of cDMARDs in people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/rec/nYPYA8/practical)   
 
 **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**: [jia.guide](https://app.magicapp.org/#/guideline/nyxpZL)    
   
@@ -548,7 +549,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 ## Invited talks
 
 `2024`
-_Crowd sourcing for systemic reviews_, APLAR Congress, Singapore, August 2024   
+_Crowdsourcing for systematic reviews_, APLAR Congress, Singapore, August 2024   
 
 `2023`
 _Advances in spondyloarthritis diagnosis and treatment_, APLAR Patronage Program, Hanoi, Vietnam, September 2023  
@@ -627,4 +628,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 22 August 2024<br/><br/>
+<br/>Last updated: 4 September 2024<br/><br/>
