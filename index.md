@@ -112,7 +112,7 @@ Steering Committee Member, South Australian Commission on Excellence and Innovat
 Editorial Board Member, Cochrane Musculoskeletal  
 
 `2023`
-Expert Panel Member, Australian Commission in Safety and Quality and Healthcare recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain    
+Expert Panel Member, Australian Commission in Safety and Quality and Healthcare [recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain](https://www.safetyandquality.gov.au/our-work/indicators-measurement-and-reporting/patient-reported-outcomes/proms-implementers/prom-recommendations)       
 
 `2008-2022`
 Associate Editor, International Journal of Rheumatic Diseases  
@@ -629,4 +629,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 15 September 2024<br/><br/>
+<br/>Last updated: 17 September 2024<br/><br/>
