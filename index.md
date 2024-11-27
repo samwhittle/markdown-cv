@@ -247,6 +247,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2024`   
+Saadat P, Bansback N, Falahee M, Hiligsmann M, Tugwell P, Buchbinder R, **Whittle S**, Richards DP, Proulx L, Schunemann H, Coello PA, Nieuwlaat R, Wiercioch W, Kuper S, Pardo JP, Hazlewood GS. _Patient preferences for drug therapy in inflammatory arthritis: protocol for a living systematic review and evidence map to inform clinical practice guidelines._ BMJ Open [in press]
+
 Yiu ZZN, McFarlane E, **Whittle SL**. ‘_Live long and prosper: living guidelines for immune-mediated inflammatory diseases._ Br J Dermatol. 2024; ljae324. [doi.org/10.1093/bjd/ljae324](https://doi.org/10.1093/bjd/ljae324) (co-published in Rheumatology, [keae360](https://doi.org/10.1093/rheumatology/keae360))  
 
 Pisaniello HL, Lester SE, Russell O, Black R, Tieu J, Richards B, Barrett C, Lassere M, March L, Buchbinder R, Hill C, **Whittle SL**. _The associations between poorer pain-related health status and increased hospitalisations and excess mortality in patients with rheumatoid arthritis (RA): a prospective cohort analysis using the Australian Rheumatology Association Database (ARAD)_. Ann Rheum Dis. 2024; [ard-2024-225696](https://doi.org/10.1136/ard-2024-225696).  
@@ -629,4 +631,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 17 September 2024<br/><br/>
+<br/>Last updated: 28 November 2024<br/><br/>
