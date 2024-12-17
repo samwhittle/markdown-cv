@@ -14,8 +14,8 @@ South Australia 5011<br/>
 <div id="webaddress">
   <a href="https://sam.xyz"><i class="fas fa-home"></i> sam.xyz</a> - 
   <a href="https://orcid.org/0000-0001-7417-7691"><i class="ai ai-orcid"></i> 0000-0001-7417-7691</a> - 
-  <a href="https://bsky.app/profile/sam.xyz" style="text-decoration: none;">
-    <img src="https://i.imgur.com/TQZ0EoD.png" 
+ <a href="https://bsky.app/profile/sam.xyz" style="text-decoration: none;">
+    <img src="media/bluesky-logo.svg" 
          alt="Bluesky Logo" 
          style="width: 16px; height: 16px; vertical-align: middle; margin-right: 4px;">
     sam.xyz
