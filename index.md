@@ -14,7 +14,12 @@ South Australia 5011<br/>
 <div id="webaddress">
   <a href="https://sam.xyz"><i class="fas fa-home"></i> sam.xyz</a> - 
   <a href="https://orcid.org/0000-0001-7417-7691"><i class="ai ai-orcid"></i> 0000-0001-7417-7691</a> - 
-  <a href="https://twitter.com/samwhittle"><i class="fab fa-twitter"></i> @samwhittle</a>
+  <a href="https://bsky.app/profile/sam.xyz" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Bluesky_Logo.svg" 
+         alt="Bluesky Logo" 
+         style="width: 16px; height: 16px; vertical-align: middle; margin-right: 4px;">
+    sam.xyz
+</a>
 </div>
 
 ## Qualifications
