@@ -252,12 +252,12 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
-Synnot A, Chakraborty S, Xue J, Cheng HZ, Berkovic D, Turner T; ALEC Consumer Advisory and Working Group and the ALEC Methods and Processes Working Group. _Exploring the use and usefulness of living guidelines for consumers: international online survey of patients' and carers' views_. J Clin Epidemiol. 2025 Jan 13:[111671](https://doi: 10.1016/j.jclinepi.2025.111671). Epub ahead of print. 
+Synnot A, Chakraborty S, Xue J, Cheng HZ, Berkovic D, Turner T; ALEC Consumer Advisory and Working Group and the ALEC Methods and Processes Working Group. _Exploring the use and usefulness of living guidelines for consumers: international online survey of patients' and carers' views_. J Clin Epidemiol. 2025 Jan 13:[111671](https://doi.org/10.1016/j.jclinepi.2025.111671). Epub ahead of print. 
+
+Saadat P, Bansback N, Falahee M, Hiligsmann M, Tugwell P, Buchbinder R, **Whittle S**, Richards DP, Proulx L, Schunemann H, Alonso-Coello P, Nieuwlaat R, Wiercioch W, Kuper S, Pardo Pardo J, Hazlewood G. _Patient preferences for drug therapy in inflammatory arthritis: protocol for a living systematic review and evidence map to inform clinical practice guidelines_. BMJ Open. 2025 Jan 15;15(1):[e088267](https://doi.org/10.1136/bmjopen-2024-088267).    
 
 `2024`   
 Ramsay H, Johnston RV, Cyril S, Glennon V, Grobler L, Burgess DM, McKenzie BJ, **Whittle SL**, Buchbinder R. _Dose reduction and discontinuation of biologic and targeted synthetic disease-modifying anti-rheumatic drugs (DMARDs) for people with psoriatic arthritis in remission or low disease activity_. Cochrane Database Syst Rev. 2024 Dec 16;12:CD015880. [doi: 10.1002/14651858.CD015880](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015880/full).  
-
-Saadat P, Bansback N, Falahee M, Hiligsmann M, Tugwell P, Buchbinder R, **Whittle S**, Richards DP, Proulx L, Schunemann H, Coello PA, Nieuwlaat R, Wiercioch W, Kuper S, Pardo JP, Hazlewood GS. _Patient preferences for drug therapy in inflammatory arthritis: protocol for a living systematic review and evidence map to inform clinical practice guidelines._ BMJ Open [in press]
 
 Yiu ZZN, McFarlane E, **Whittle SL**. ‘_Live long and prosper: living guidelines for immune-mediated inflammatory diseases._ Br J Dermatol. 2024; ljae324. [doi.org/10.1093/bjd/ljae324](https://doi.org/10.1093/bjd/ljae324) (co-published in Rheumatology, [keae360](https://doi.org/10.1093/rheumatology/keae360))  
 
