@@ -251,6 +251,9 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
+`2025`   
+Synnot A, Chakraborty S, Xue J, Cheng HZ, Berkovic D, Turner T; ALEC Consumer Advisory and Working Group and the ALEC Methods and Processes Working Group. _Exploring the use and usefulness of living guidelines for consumers: international online survey of patients' and carers' views_. J Clin Epidemiol. 2025 Jan 13:[111671](https://doi: 10.1016/j.jclinepi.2025.111671). Epub ahead of print. 
+
 `2024`   
 Ramsay H, Johnston RV, Cyril S, Glennon V, Grobler L, Burgess DM, McKenzie BJ, **Whittle SL**, Buchbinder R. _Dose reduction and discontinuation of biologic and targeted synthetic disease-modifying anti-rheumatic drugs (DMARDs) for people with psoriatic arthritis in remission or low disease activity_. Cochrane Database Syst Rev. 2024 Dec 16;12:CD015880. [doi: 10.1002/14651858.CD015880](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015880/full).  
 
@@ -639,4 +642,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 17 January 2025<br/><br/>
+<br/>Last updated: 18 January 2025<br/><br/>
