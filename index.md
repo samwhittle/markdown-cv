@@ -183,7 +183,7 @@ Director, Physician Training, Queen Elizabeth Hospital
 **Expert working group member, RACGP Guideline for the management of knee and hip osteoarthritis**   
 
 `2024-2026`
-**Advisory Panel member, Australian Dementia Clinical Guideline**   
+**Advisory Panel member and Chair, Conflict of Interest Oversight Committee, Australian Dementia Clinical Guideline**   
 
 `2021-2023`
 **Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 4th Edition**
@@ -642,4 +642,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 18 January 2025<br/><br/>
+<br/>Last updated: 29 March 2025<br/><br/>
