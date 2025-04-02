@@ -252,6 +252,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
+**Whittle SL**, Johnston RV, McDonald S, Worthley D, Campbell TM, Cyril S, Bapna T, Zhang J, Buchbinder R. _Stem cell injections for osteoarthritis of the knee._ Cochrane Database of Systematic Reviews 2025, Issue 4. Art. No.: CD013342. DOI: [10.1002/14651858.CD013342.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full). Accessed 02 April 2025.  
+
 Synnot A, Chakraborty S, Xue J, Cheng HZ, Berkovic D, Turner T; ALEC Consumer Advisory and Working Group and the ALEC Methods and Processes Working Group. _Exploring the use and usefulness of living guidelines for consumers: international online survey of patients' and carers' views_. J Clin Epidemiol. 2025 Jan 13:[111671](https://doi.org/10.1016/j.jclinepi.2025.111671). Epub ahead of print. 
 
 Saadat P, Bansback N, Falahee M, Hiligsmann M, Tugwell P, Buchbinder R, **Whittle S**, Richards DP, Proulx L, Schunemann H, Alonso-Coello P, Nieuwlaat R, Wiercioch W, Kuper S, Pardo Pardo J, Hazlewood G. _Patient preferences for drug therapy in inflammatory arthritis: protocol for a living systematic review and evidence map to inform clinical practice guidelines_. BMJ Open. 2025 Jan 15;15(1):[e088267](https://doi.org/10.1136/bmjopen-2024-088267).    
@@ -642,4 +644,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 29 March 2025<br/><br/>
+<br/>Last updated: 2 April 2025<br/><br/>
