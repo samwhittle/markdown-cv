@@ -252,7 +252,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
-**Whittle SL**, Johnston RV, McDonald S, Worthley D, Campbell TM, Cyril S, Bapna T, Zhang J, Buchbinder R. _Stem cell injections for osteoarthritis of the knee._ Cochrane Database of Systematic Reviews 2025, Issue 4. Art. No.: CD013342. DOI: [10.1002/14651858.CD013342.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full). Accessed 02 April 2025.  
+**Whittle SL**, Johnston RV, McDonald S, Worthley D, Campbell TM, Cyril S, Bapna T, Zhang J, Buchbinder R. _Stem cell injections for osteoarthritis of the knee._ Cochrane Database of Systematic Reviews 2025, Issue 4. Art. No.: CD013342. DOI: [10.1002/14651858.CD013342.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full).    
 
 Synnot A, Chakraborty S, Xue J, Cheng HZ, Berkovic D, Turner T; ALEC Consumer Advisory and Working Group and the ALEC Methods and Processes Working Group. _Exploring the use and usefulness of living guidelines for consumers: international online survey of patients' and carers' views_. J Clin Epidemiol. 2025 Jan 13:[111671](https://doi.org/10.1016/j.jclinepi.2025.111671). Epub ahead of print. 
 
