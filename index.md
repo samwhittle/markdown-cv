@@ -252,6 +252,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
+Chin A, Terrett A, Kwon M, **Whittle S**, Hill C. _Recommendations for the use of DMARDs in pregnancy and reproductive health for patients with rheumatic disease: A scoping review._ Arthritis Care Res (Hoboken). 2025 Apr 21. [doi: 10.1002/acr.25558](https://doi.org/10.1002/acr.25558). Epub ahead of print. 
+
 St Pierre K, Cashmore B, Cumpston MS, Hill K, McDonald S, Pattuwage L, White H, **Whittle SL**, Turner T, Tunnicliffe DJ. _Methods for living guidelines: The use of existing systematic reviews in living guideline development._ Journal of Clinical Epidemiology [Accepted 28th April 2025].  
 
 **Whittle SL**, Johnston RV, McDonald S, Worthley D, Campbell TM, Cyril S, Bapna T, Zhang J, Buchbinder R. _Stem cell injections for osteoarthritis of the knee._ Cochrane Database of Systematic Reviews 2025, Issue 4. Art. No.: CD013342. DOI: [10.1002/14651858.CD013342.pub2](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013342.pub2/full).    
@@ -646,4 +648,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 29 April 2025<br/><br/>
+<br/>Last updated: 6 May 2025<br/><br/>
