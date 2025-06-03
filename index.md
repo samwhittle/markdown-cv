@@ -252,6 +252,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
+Sukkar MB, Ainley R, Barrett C, ... **Whittle SL**, Wright SA, Keen H, Hill CL. _Development of the Australian Rheumatology Association Clinical Care Standard for the diagnosis and management of rheumatoid arthritis in adults_. J Rheumatol. 2025 Jun 1. [doi: 10.3899/jrheum.2024-1034](https://doi.org/10.3899/jrheum.2024-1034). Epub ahead of print.    
+
 Bryant MJ, Lester S, Russell O, **Whittle S**, Limaye V, Proudman S, Black RJ, Hill CL. _Implementation of a novel patient reported experience measure (PREM) in rheumatology: a cross-sectional online survey of Australian rheumatology outpatients._ Rheumatol Int. 2025 May 8;45(6):138. [doi: 10.1007/s00296-025-05882-8](https://doi.org/10.1007/s00296-025-05882-8). PMID: 40338307.
 
 Chin A, Terrett A, Kwon M, Hill C, **Whittle S**. _Recommendations for the use of DMARDs in pregnancy and reproductive health for patients with rheumatic disease: A scoping review._ Arthritis Care Res (Hoboken). 2025 Apr 21. [doi: 10.1002/acr.25558](https://doi.org/10.1002/acr.25558). Epub ahead of print. 
@@ -650,4 +652,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 9 May 2025<br/><br/>
+<br/>Last updated: 3 June 2025<br/><br/>
