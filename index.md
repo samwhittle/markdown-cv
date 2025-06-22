@@ -252,7 +252,7 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
-Terrett AM, Damodaran A, Burnet S, Singh-Grewal D, Buchbinder R, Glover J, Rudd T, Lester S, **Whittle SL**, et al. The rheumatology workforce in Australia: current and projected shortfalls. Intern Med J. 2025 [doi:10.1111/imj.70123](https://onlinelibrary.wiley.com/doi/10.1111/imj.70123)  
+Terrett AM, Damodaran A, Burnet S, Singh-Grewal D, Buchbinder R, Glover J, Rudd T, Lester S, **Whittle SL**, et al. _The rheumatology workforce in Australia: current and projected shortfalls_. Intern Med J. 2025 [doi:10.1111/imj.70123](https://onlinelibrary.wiley.com/doi/10.1111/imj.70123)  
 
 Sukkar MB, Ainley R, Barrett C, ... **Whittle SL**, Wright SA, Keen H, Hill CL. _Development of the Australian Rheumatology Association Clinical Care Standard for the diagnosis and management of rheumatoid arthritis in adults_. J Rheumatol. 2025 Jun 1. [doi: 10.3899/jrheum.2024-1034](https://doi.org/10.3899/jrheum.2024-1034). Epub ahead of print.    
 
