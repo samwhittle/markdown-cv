@@ -252,6 +252,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
+Terrett AM, Damodaran A, Burnet S, Singh-Grewal D, Buchbinder R, Glover J, Rudd T, Lester S, **Whittle SL**, et al. The rheumatology workforce in Australia: current and projected shortfalls. Intern Med J. 2025 [doi:10.1111/imj.70123](https://onlinelibrary.wiley.com/doi/10.1111/imj.70123)  
+
 Sukkar MB, Ainley R, Barrett C, ... **Whittle SL**, Wright SA, Keen H, Hill CL. _Development of the Australian Rheumatology Association Clinical Care Standard for the diagnosis and management of rheumatoid arthritis in adults_. J Rheumatol. 2025 Jun 1. [doi: 10.3899/jrheum.2024-1034](https://doi.org/10.3899/jrheum.2024-1034). Epub ahead of print.    
 
 Bryant MJ, Lester S, Russell O, **Whittle S**, Limaye V, Proudman S, Black RJ, Hill CL. _Implementation of a novel patient reported experience measure (PREM) in rheumatology: a cross-sectional online survey of Australian rheumatology outpatients._ Rheumatol Int. 2025 May 8;45(6):138. [doi: 10.1007/s00296-025-05882-8](https://doi.org/10.1007/s00296-025-05882-8). PMID: 40338307.
@@ -652,4 +654,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 3 June 2025<br/><br/>
+<br/>Last updated: 22 June 2025<br/><br/>
