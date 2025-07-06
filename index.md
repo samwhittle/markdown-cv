@@ -252,6 +252,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
+Terrett A, Chin A, Kwon M, Hill C, **Whittle S**. _Perioperative management with DMARDs in rheumatic diseases: a scoping review of clinical guidelines_. BMC Rheumatology. [2025;9: 81](https://pmc.ncbi.nlm.nih.gov/articles/PMC12224603/).  
+
 White H, Synnot A, Glennon V, Hill K, **Whittle S**, Seid A, et al. _Living recommendations do not ‘flip-flop’ - Examining the probability of directional changes to recommendations in living guidelines_. J Clin Epidemiol. 2025; [111874](https://doi.org/10.1016/j.jclinepi.2025.111874).  
 
 Terrett AM, Damodaran A, Burnet S, Singh-Grewal D, Buchbinder R, Glover J, Rudd T, Lester S, **Whittle SL**, et al. _The rheumatology workforce in Australia: current and projected shortfalls_. Intern Med J. 2025 [doi:10.1111/imj.70123](https://onlinelibrary.wiley.com/doi/10.1111/imj.70123)  
@@ -656,4 +658,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 23 June 2025<br/><br/>
+<br/>Last updated: 7 July 2025<br/><br/>
