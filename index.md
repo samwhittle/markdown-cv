@@ -519,6 +519,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
   [Rheumatoid arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/rec/jboYWY)   
   [Psoriatic Arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jz77kg)   
   [Dose reduction or discontinuation of b/tsDMARDs versus dose reduction or discontinuation of cDMARDs in people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/rec/nYPYA8/practical)   
+  [Laboratory safety monitoring in people with inflammatory arthritis using csDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/rec/EaKNKd)  
 
 **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**: [jia.guide](https://app.magicapp.org/#/guideline/nyxpZL)    
   
@@ -658,4 +659,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 7 July 2025<br/><br/>
+<br/>Last updated: 19 August 2025<br/><br/>
