@@ -104,6 +104,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2023-present`
 **Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Chronic Pain Special Interest Group**      
 
+`2025-present`
+**Member, Central Adelaide Local Health Network Drug & Therapeutics Committee**    
+
 `2022-2024`
 Vice President, Australian Rheumatology Association     
 
@@ -659,4 +662,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 19 August 2025<br/><br/>
+<br/>Last updated: 26 August 2025<br/><br/>
