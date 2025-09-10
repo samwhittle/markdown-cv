@@ -198,6 +198,8 @@ Expert working group member, RACGP Guideline for the management of knee and hip 
 Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 3rd Edition   
 
 ## Other Research Activity  
+`2025-present`
+**Inaugural Editor-in-Chief, Australian Rheumatology Journal**   
 
 `2023`
 NHMRC Investigator Grant Reviewer    
@@ -662,4 +664,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 26 August 2025<br/><br/>
+<br/>Last updated: 10 September 2025<br/><br/>
