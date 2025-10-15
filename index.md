@@ -257,6 +257,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
 `2025`   
+McKenzie BJ, Ferreira GE, Haas R, Gorelik A, Maher CG, Buchbinder R, et al. _Development of an internationally agreed national minimum dataset for low back pain: a modified Delphi study._ Spine J. 2025;0. [doi:10.1016/j.spinee.2025.10.003](https://www.thespinejournalonline.com/article/S1529-9430(25)00810-1/fulltext)  
+
 Pisaniello HL, **Whittle SL**, Johnston RV, Glennon V, Grobler L, Cyril S, Arno AD, Buchbinder R. _Dose reduction and discontinuation of conventional synthetic disease-modifying anti-rheumatic drugs (DMARDs) for people with rheumatoid arthritis or psoriatic arthritis in remission or low disease activity (protocol)_. [Cochrane Database Syst Rev. 2025 Sep 30;9:CD015900](https://doi.org/10.1002/14651858.CD015900).   
 
 Terrett A, Chin A, Kwon M, Hill C, **Whittle S**. _Perioperative management with DMARDs in rheumatic diseases: a scoping review of clinical guidelines_. BMC Rheumatology. [2025;9: 81](https://pmc.ncbi.nlm.nih.gov/articles/PMC12224603/).  
@@ -666,4 +668,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 1 October 2025<br/><br/>
+<br/>Last updated: 15 October 2025<br/><br/>
