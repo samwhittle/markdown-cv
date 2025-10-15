@@ -107,6 +107,9 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2025-present`
 **Member, Central Adelaide Local Health Network Drug & Therapeutics Committee**    
 
+`2027`
+**Co-convenor, 2027 Australian Rheumatology Association Annual Scientific Meeting, Darwin**   
+
 `2022-2024`
 Vice President, Australian Rheumatology Association     
 
@@ -145,7 +148,7 @@ Other Australian Rheumatology Association Committees:
     Chair, Policy & Advocacy Committee   
   `2019-2022`
     Chair, Clinical Resources Committee    
-  `2016-2021`
+  `2016-2021, 2025-2027`
     ASM Programme Committee  
   `2016-2018`
     Honorary Treasurer  
