@@ -544,6 +544,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
   [Foot orthoses in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/jOplG7)   
   [Exercise therapy in children and young people with juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/LwR5Gp)   
   [Conventional synthetic DMARD (csDMARD) dose reduction or discontinuation for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/Lke4K7)  
+  [Biologic or targeted synthetic DMARD (b/tsDMARD) dose reduction or discontinuation for juvenile idiopathic arthritis](https://app.magicapp.org/#/guideline/nyxpZL/section/L4QmZB)  
   
   
 ## Grants and funding
@@ -671,4 +672,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 15 October 2025<br/><br/>
+<br/>Last updated: 22 October 2025<br/><br/>
