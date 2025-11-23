@@ -549,6 +549,9 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
   
 ## Grants and funding
 
+`2026-2028`
+**Central Adelaide Local Health Network (CALHN) CEO Clinical Rapid Implementation Project Scheme (CRIPS) and Prof John Beltrame AM Innovation Award** (CI): *The EMPOWER Trial (Evaluating Models of Patient-Initiated Outpatient Workflows for Efficient Rheumatology Care): an RCT of Patient-Initiated Follow-Up in hospital outpatients with rheumatoid arthritis or fibromyalgia* ($300,000)   
+
 `2024`
 **Arthritis Australia Project Grant** (CI): *Living clinical practice guidelines for management of rotator cuff related shoulder pain: Priority questions* ($45,000)   
 
@@ -672,4 +675,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 22 October 2025<br/><br/>
+<br/>Last updated: 23 November 2025<br/><br/>
