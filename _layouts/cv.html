@@ -18,7 +18,7 @@
     <script>
     // Auto-number publications in descending order
     document.addEventListener('DOMContentLoaded', function() {
-        // Find the Publications heading (h2 with id="publications")
+        // Find the Publications heading
         var pubHeading = document.getElementById('publications');
         if (!pubHeading) return;
         
@@ -28,7 +28,6 @@
         
         while (sibling && sibling.tagName !== 'H2') {
             if (sibling.tagName === 'P') {
-                // Skip the Google Scholar link paragraph
                 var text = sibling.textContent || '';
                 if (text.indexOf('Publication list') === -1 && text.trim().length > 0) {
                     pubs.push(sibling);
@@ -41,10 +40,42 @@
         var total = pubs.length;
         for (var j = 0; j < pubs.length; j++) {
             var num = total - j;
-            var numSpan = document.createElement('span');
-            numSpan.className = 'pub-number';
-            numSpan.textContent = num + '. ';
-            pubs[j].insertBefore(numSpan, pubs[j].firstChild);
+            var pub = pubs[j];
+            
+            // Find where to insert the number
+            // If there's a <br>, insert after the last <br> (after year line)
+            var brElements = pub.getElementsByTagName('br');
+            
+            if (brElements.length > 0) {
+                // Get the last BR (in case there are multiple)
+                var lastBr = brElements[brElements.length - 1];
+                
+                // Insert number after the BR
+                var numText = document.createTextNode(num + '. ');
+                if (lastBr.nextSibling) {
+                    // If BR has text after it, check if it starts with whitespace
+                    if (lastBr.nextSibling.nodeType === 3) {
+                        // It's a text node - prepend the number to it
+                        lastBr.nextSibling.textContent = num + '. ' + lastBr.nextSibling.textContent.replace(/^\s+/, '');
+                    } else {
+                        // It's an element - insert text node before it
+                        pub.insertBefore(numText, lastBr.nextSibling);
+                    }
+                } else {
+                    pub.appendChild(numText);
+                }
+            } else {
+                // No BR - insert at beginning
+                var firstChild = pub.firstChild;
+                if (firstChild && firstChild.nodeType === 3) {
+                    // First child is text - prepend number
+                    firstChild.textContent = num + '. ' + firstChild.textContent.replace(/^\s+/, '');
+                } else {
+                    // First child is element - insert text before it
+                    var numText = document.createTextNode(num + '. ');
+                    pub.insertBefore(numText, firstChild);
+                }
+            }
         }
     });
     </script>
