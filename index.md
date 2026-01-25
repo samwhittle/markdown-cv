@@ -92,7 +92,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2024-present`
 **Member, Asia Pacific League of Associations for Rheumatology (APLAR) Scientific Committee**   
 
-`2016-2021, 2022-present`
+`2016-2021, 2022-2026`
 **Board Director, Australian Rheumatology Association**       
 
 `2024-2026`
@@ -167,7 +167,7 @@ Other Australian Rheumatology Association Committees:
 ## Teaching  
 
 `2022-present`
-**Course co-ordinator, University of Adelaide MBBS Rheumatology Teaching**  
+**Course co-ordinator, University of Adelaide MD Undergraduate Rheumatology Teaching**  
 
 `2008-2021`
 Co-ordinator, TQEH Med IV Rheumatology Teaching Programme  
@@ -182,10 +182,10 @@ Director, Physician Training, Queen Elizabeth Hospital
 
 `2018-present`
 **Lead developer**:  
-  **Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis** ([mskguidelines.org](https://app.magicapp.org/#/guideline/LqRV3n))  
-  **Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  ([jia.guide](https://app.magicapp.org/#/guideline/nyxpZL))  
+  **Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis** ([mskguidelines.org](https:mskguidelines.org))  
+  **Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  ([jiaguideline.net](https:jiaguideline.net))  
 
-`2024-2025`
+`2024-2026`
 **Expert working group member, RACGP Guideline for the management of knee and hip osteoarthritis**   
 
 `2024-2026`
@@ -602,6 +602,14 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 ## Invited talks
 
+`2026`   
+_Digital Solutions to Guideline Implementation_, APLAR Congress, Seoul, South Korea, October 2026  
+
+_Rheumatoid Arthritis Living Guidelines_, ARA Annual Scientific Meeting, Gold Coast, May 2026
+
+`2025`
+_ARA Private Practice for Rheumatology Trainees_, Sydney, August 2025  
+
 `2024`
 _Crowdsourcing for systematic reviews_, APLAR Congress, Singapore, August 2024   
 
@@ -682,4 +690,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 21 December 2025<br/><br/>
+<br/>Last updated: 25 January 2026<br/><br/>
