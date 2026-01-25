@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -55,7 +55,7 @@ body {
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	/*also written as... font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
@@ -187,6 +187,11 @@ strong {
 	display: none;
 }
 
+/* Publication numbering */
+.pub-number {
+	font-weight: bold;
+	color: #333;
+}
 
 
 /*

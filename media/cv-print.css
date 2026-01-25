@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -55,7 +55,7 @@ body {
 	font: normal normal 400;
 	font-size: 12pt;
 	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	/*also written as... font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
@@ -143,10 +143,9 @@ h2 {
 	width: 20%;
 }
 
-
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
@@ -178,7 +177,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	color: #2d4e5e
 }
 
 strong {
@@ -190,6 +189,7 @@ strong {
 	visibility: hidden;
 }
 
-
-
-
+/* Publication numbering */
+.pub-number {
+	font-weight: bold;
+}
