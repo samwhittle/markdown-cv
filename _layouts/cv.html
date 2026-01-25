@@ -18,29 +18,33 @@
     <script>
     // Auto-number publications in descending order
     document.addEventListener('DOMContentLoaded', function() {
-        var pubDiv = document.getElementById('publications');
-        if (pubDiv) {
-            // Get all paragraphs that contain a code element (the year) - these are publication entries
-            // In the markdown, year is inline with the first publication of that year
-            var allP = pubDiv.querySelectorAll('p');
-            var pubs = [];
-            for (var i = 0; i < allP.length; i++) {
-                // Include paragraphs that have a code element (year) OR start with author names
-                // Skip the Google Scholar link paragraph (contains "Publication list")
-                var text = allP[i].textContent || '';
+        // Find the Publications heading (h2 with id="publications")
+        var pubHeading = document.getElementById('publications');
+        if (!pubHeading) return;
+        
+        // Collect all paragraphs between Publications and the next h2
+        var pubs = [];
+        var sibling = pubHeading.nextElementSibling;
+        
+        while (sibling && sibling.tagName !== 'H2') {
+            if (sibling.tagName === 'P') {
+                // Skip the Google Scholar link paragraph
+                var text = sibling.textContent || '';
                 if (text.indexOf('Publication list') === -1 && text.trim().length > 0) {
-                    pubs.push(allP[i]);
+                    pubs.push(sibling);
                 }
             }
-            var total = pubs.length;
-            
-            for (var j = 0; j < pubs.length; j++) {
-                var num = total - j;
-                var numSpan = document.createElement('span');
-                numSpan.className = 'pub-number';
-                numSpan.textContent = num + '. ';
-                pubs[j].insertBefore(numSpan, pubs[j].firstChild);
-            }
+            sibling = sibling.nextElementSibling;
+        }
+        
+        // Number them in descending order
+        var total = pubs.length;
+        for (var j = 0; j < pubs.length; j++) {
+            var num = total - j;
+            var numSpan = document.createElement('span');
+            numSpan.className = 'pub-number';
+            numSpan.textContent = num + '. ';
+            pubs[j].insertBefore(numSpan, pubs[j].firstChild);
         }
     });
     </script>
