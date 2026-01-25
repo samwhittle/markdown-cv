@@ -259,6 +259,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=6P9otGEAAAAJ&view_op=list_works)*    
 
+<div id="publications">
+
 `2026`    
 Kamso MM, **Whittle SL**, Pardo JP, Buchbinder R, Wells G, Deardon R, et al. _A semi-automated approach facilitated the assessment of the certainty of evidence for in a network meta-analysis: Part 2 - Indirect and Mixed comparisons._ J Clin Epidemiol. 2025;0: [112110](https://www.jclinepi.com/article/S0895-4356(25)00443-3/fulltext).    
 
@@ -512,6 +514,8 @@ Mangat P, **Whittle S**, Cleland L, Limaye V. _Digital vasculitis: a late compli
 
 `1996`  
 Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiographic changes in the knee after meniscal transplantation. An experimental study in a sheep model._ Am J Sports Med. 1996 Apr;24(2):222–6.
+
+</div>
 
 ## Living Guideline Recommendations   
 
