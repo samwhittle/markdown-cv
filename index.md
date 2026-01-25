@@ -182,8 +182,8 @@ Director, Physician Training, Queen Elizabeth Hospital
 
 `2018-present`
 **Lead developer**:  
-  **Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis** ([mskguidelines.org](https:mskguidelines.org))  
-  **Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  ([jiaguideline.net](https:jiaguideline.net))  
+  **Australian Living Guideline for the Pharmacological Management of Inflammatory Arthritis** ([mskguidelines.org](https://livingguidelines.org/adult/))  
+  **Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**  ([jiaguideline.net](https://livingguidelines.org/jia/))  
 
 `2024-2026`
 **Expert working group member, RACGP Guideline for the management of knee and hip osteoarthritis**   
