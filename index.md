@@ -261,6 +261,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 
 `2026`    
+Furtado R, Marmura H, Haas R, Ramiro S, Verhagen A, **Whittle S**, et al. _Suitability of the Numerical Pain Rating Scale for measuring pain in clinical trials evaluating interventions for people with shoulder disorders according to the OMERACT filter 2.2._ Semin Arthritis Rheum. 2026; 152954. 
+   
 Kamso MM, **Whittle SL**, Pardo JP, Buchbinder R, Wells G, Deardon R, et al. _A semi-automated approach facilitated the assessment of the certainty of evidence for in a network meta-analysis: Part 2 - Indirect and Mixed comparisons._ J Clin Epidemiol. 2025;0: [112110](https://www.jclinepi.com/article/S0895-4356(25)00443-3/fulltext).    
 
 Kamso MM, **Whittle SL**, Pardo JP, Buchbinder R, Wells G, Deardon R, et al. _A semi-automated approach facilitated the assessment of the certainty of evidence in a network meta-analysis: Part 1 – Direct comparisons._ J Clin Epidemiol. 2025;0: [112109](https://www.jclinepi.com/article/S0895-4356(25)00442-1/fulltext).    
@@ -690,4 +692,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 25 January 2026<br/><br/>
+<br/>Last updated: 27 February 2026<br/><br/>
