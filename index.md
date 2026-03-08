@@ -263,9 +263,9 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 `2026`    
 Furtado R, Marmura H, Haas R, Ramiro S, Verhagen A, **Whittle S**, et al. _Suitability of the Numerical Pain Rating Scale for measuring pain in clinical trials evaluating interventions for people with shoulder disorders according to the OMERACT filter 2.2._ Semin Arthritis Rheum. 2026; 152954. 
    
-Kamso MM, **Whittle SL**, Pardo JP, Buchbinder R, Wells G, Deardon R, et al. _A semi-automated approach facilitated the assessment of the certainty of evidence for in a network meta-analysis: Part 2 - Indirect and Mixed comparisons._ J Clin Epidemiol. 2025;0: [112110](https://www.jclinepi.com/article/S0895-4356(25)00443-3/fulltext).    
+Kamso MM, **Whittle SL**, Pardo JP, Buchbinder R, Wells G, Deardon R, et al. _A semi-automated approach facilitated the assessment of the certainty of evidence for in a network meta-analysis: Part 2 - Indirect and Mixed comparisons._ J Clin Epidemiol. [2026 Mar;191:112110](https://doi.org/10.1016/j.jclinepi.2025.112110). PMID: 41412485.    
 
-Kamso MM, **Whittle SL**, Pardo JP, Buchbinder R, Wells G, Deardon R, et al. _A semi-automated approach facilitated the assessment of the certainty of evidence in a network meta-analysis: Part 1 – Direct comparisons._ J Clin Epidemiol. 2025;0: [112109](https://www.jclinepi.com/article/S0895-4356(25)00442-1/fulltext).    
+Kamso MM, **Whittle SL**, Pardo JP, Buchbinder R, Wells G, Deardon R, et al. _A semi-automated approach facilitated the assessment of the certainty of evidence in a network meta-analysis: Part 1 – Direct comparisons._ J Clin Epidemiol. [2026 Mar;191:112109](https://doi.org/10.1016/j.jclinepi.2025.112109). Epub 2025 Dec 18. PMID: 41421719.      
 
 `2025`   
 McKenzie BJ, Ferreira GE, Haas R, Gorelik A, Maher CG, Buchbinder R, et al. _Development of an internationally agreed national minimum dataset for low back pain: a modified Delphi study._ Spine J. 2025;0. [doi:10.1016/j.spinee.2025.10.003](https://www.thespinejournalonline.com/article/S1529-9430(25)00810-1/fulltext)  
@@ -692,4 +692,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 27 February 2026<br/><br/>
+<br/>Last updated: 9 March 2026<br/><br/>
