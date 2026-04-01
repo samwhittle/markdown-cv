@@ -261,7 +261,6 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 
 `2026`    
-
 Russo PAJ, Makhzoum J-P, Cottin V, Conticini E, Emmi G, **Whittle SL**. Janus kinase inhibitors in eosinophilic granulomatosis with polyangiitis: An international case series. J Rheumatol. 2026; [jrheum.2025-1128](https://doi.org/10.3899/jrheum.2025-1128).   
 
 Furtado R, Marmura H, Haas R, Ramiro S, Verhagen A, **Whittle S**, et al. _Suitability of the Numerical Pain Rating Scale for measuring pain in clinical trials evaluating interventions for people with shoulder disorders according to the OMERACT filter 2.2._ Semin Arthritis Rheum. 2026; 152954. 
