@@ -632,7 +632,8 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 
 
 ## Invited talks
-`2026`   
+
+`2026`
 _Digital Solutions to Guideline Implementation_, APLAR Congress, Seoul, South Korea, October 2026  
 
 _Rheumatoid Arthritis Living Guidelines_, ARA Annual Scientific Meeting, Gold Coast, May 2026
