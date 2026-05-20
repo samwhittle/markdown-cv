@@ -77,9 +77,6 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 ## Professional Service  
 
-`2024-2026`
-**President, Australian Rheumatology Association**  
-
 `2014-present`
 **Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**   
 
@@ -92,11 +89,20 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2024-present`
 **Member, Asia Pacific League of Associations for Rheumatology (APLAR) Scientific Committee**   
 
-`2016-2021, 2022-2026`
-**Board Director, Australian Rheumatology Association**       
+`2027`
+**Co-convenor, 2027 Australian Rheumatology Association Annual Scientific Meeting, Darwin** 
 
 `2024-2026`
-**Member, Adult Medicine Division Council, The Royal Australasian College of Physicians**    
+President, Australian Rheumatology Association 
+
+`2016-2021, 2022-2026`
+Board Director, Australian Rheumatology Association       
+
+`2024-2026`
+Member, Adult Medicine Division Council, The Royal Australasian College of Physicians    
+
+`2022-2024`
+Vice President, Australian Rheumatology Association     
 
 `2022-present`
 **Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)**    
@@ -105,13 +111,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 **Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Chronic Pain Special Interest Group**      
 
 `2025-present`
-**Member, Central Adelaide Local Health Network Drug & Therapeutics Committee**    
-
-`2027`
-**Co-convenor, 2027 Australian Rheumatology Association Annual Scientific Meeting, Darwin**   
-
-`2022-2024`
-Vice President, Australian Rheumatology Association     
+**Member, Central Adelaide Local Health Network Drug & Therapeutics Committee**      
 
 `2022-2024`
 Member, College Council, The Royal Australasian College of Physicians   
@@ -698,4 +698,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 16 May 2026<br/><br/>
+<br/>Last updated: 20 May 2026<br/><br/>
