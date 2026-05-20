@@ -77,7 +77,7 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 ## Professional Service  
 
-### Australian Rheumatology Association (ARA)
+### Australian Rheumatology Association
 
 `2027`
 **Co-convenor, 2027 ARA Annual Scientific Meeting, Darwin**
@@ -85,11 +85,11 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 `2016-2021, 2025-2027`
 **Member, ASM Programme Committee**
 
-`2016-2021, 2022-2026`
-Board Director
-
 `2024-2026`
 President
+
+`2016-2021, 2022-2026`
+Board Director
 
 `2022-2024`
 Vice President
@@ -121,12 +121,12 @@ Representative to Asia-Pacific League of Associations for Rheumatology (APLAR)
 `2008-2012`
 Electronic Communications Committee
 
-### Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)
+### ANZMUSC
 
 `2014-present`
 **Executive Committee Member**
 
-### Asia Pacific League of Associations for Rheumatology (APLAR)
+### APLAR
 
 `2023-present`
 **Executive Committee Member**
@@ -143,12 +143,12 @@ Electronic Communications Committee
 `2021-2023`
 Member, Finance Committee
 
-### Australian Rheumatology Journal (ARJ)
+### Australian Rheumatology Journal
 
 `2025-present`
 **Inaugural Editor-in-Chief**
 
-### Royal Australasian College of Physicians (RACP)
+### RACP  
 
 `2024-2026`
 Member, Adult Medicine Division Council
@@ -569,6 +569,7 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
   [Psoriatic Arthritis: Dose reduction or discontinuation of conventional synthetic DMARDs](https://app.magicapp.org/#/guideline/LqRV3n/section/jz77kg)   
   [Dose reduction or discontinuation of b/tsDMARDs versus dose reduction or discontinuation of cDMARDs in people with rheumatoid arthritis](https://app.magicapp.org/#/guideline/LqRV3n/rec/nYPYA8/practical)   
   [Laboratory safety monitoring in people with inflammatory arthritis using csDMARDs](https://app.magicapp.org/#/guideline/LqRV3n/rec/EaKNKd)  
+  [Retinopathy screening for adults taking hydroxychloroquine](https://livingguidelines.org/adult/#hcq-retinopathy)  
 
 **An Australian Living Guideline for the Management of Juvenile Idiopathic Arthritis**: [jia.guide](https://app.magicapp.org/#/guideline/nyxpZL)    
   
