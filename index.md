@@ -77,91 +77,115 @@ Intern, *The Royal Adelaide Hospital*, Adelaide, South Australia.
 
 ## Professional Service  
 
-`2014-present`
-**Executive Committee Member, Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)**   
-
-`2023-present`
-**Executive Committee Member, Asia Pacific League of Associations for Rheumatology (APLAR)**  
-
-`2023-present`
-**Co-Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee**                     
-
-`2024-present`
-**Member, Asia Pacific League of Associations for Rheumatology (APLAR) Scientific Committee**   
+### Australian Rheumatology Association (ARA)
 
 `2027`
-**Co-convenor, 2027 Australian Rheumatology Association Annual Scientific Meeting, Darwin** 
+**Co-convenor, 2027 ARA Annual Scientific Meeting, Darwin**
 
-`2024-2026`
-President, Australian Rheumatology Association 
+`2016-2021, 2025-2027`
+**Member, ASM Programme Committee**
 
 `2016-2021, 2022-2026`
-Board Director, Australian Rheumatology Association       
+Board Director
 
 `2024-2026`
-Member, Adult Medicine Division Council, The Royal Australasian College of Physicians    
+President
 
 `2022-2024`
-Vice President, Australian Rheumatology Association     
+Vice President
 
-`2022-present`
-**Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)**    
+`2022-2023`
+Chair, Policy & Advocacy Committee
 
-`2023-present`
-**Chair, Asia Pacific League of Associations for Rheumatology (APLAR) Chronic Pain Special Interest Group**      
-
-`2025-present`
-**Member, Central Adelaide Local Health Network Drug & Therapeutics Committee**      
-
-`2022-2024`
-Member, College Council, The Royal Australasian College of Physicians   
-
-`2021-2024` 
-Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network   
-
-`2019-2024`
-Editorial Board Member, Cochrane Musculoskeletal  
-
-`2023`
-Expert Panel Member, Australian Commission in Safety and Quality and Healthcare [recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain](https://www.safetyandquality.gov.au/our-work/indicators-measurement-and-reporting/patient-reported-outcomes/proms-implementers/prom-recommendations)       
-
-`2008-2022`
-Associate Editor, International Journal of Rheumatic Diseases  
-
-`2012-2022`
-Arthritis SA Education, Research & Advocacy Committee   
-
-`2021-2023`
-Member, Asia Pacific League of Associations for Rheumatology (APLAR) Finance Committee   
-
-`2021`
-Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee 
-
-`2018`
-Steering Committee Member, National Strategic Action Plan for Arthritis 
+`2019-2022`
+Chair, Clinical Resources Committee
 
 `2019-2021`
-President, Australian Rheumatology Association South Australian Branch     
+President, South Australian Branch
 
-Other Australian Rheumatology Association Committees:  
-  `2022-2023`
-    Chair, Policy & Advocacy Committee   
-  `2019-2022`
-    Chair, Clinical Resources Committee    
-  `2016-2021, 2025-2027`
-    ASM Programme Committee  
-  `2016-2018`
-    Honorary Treasurer  
-  `2014-2020`
-    Financial Advisory Committee     
-  `2016-2020`
-    Sponsor Liaison Committee      
-  `2008-2018`
-    Representative to Asia-Pacific League of Associations for Rheumatology (APLAR)    
-  `2015`
-    Convenor, Annual Scientific Meeting, Adelaide     
-  `2008-2012`
-    Electronic Communications Committee       
+`2016-2018`
+Honorary Treasurer
+
+`2016-2020`
+Sponsor Liaison Committee
+
+`2015`
+Convenor, Annual Scientific Meeting, Adelaide
+
+`2014-2020`
+Financial Advisory Committee
+
+`2008-2018`
+Representative to Asia-Pacific League of Associations for Rheumatology (APLAR)
+
+`2008-2012`
+Electronic Communications Committee
+
+### Australia & New Zealand Musculoskeletal Clinical Trials Network (ANZMUSC)
+
+`2014-present`
+**Executive Committee Member**
+
+### Asia Pacific League of Associations for Rheumatology (APLAR)
+
+`2023-present`
+**Executive Committee Member**
+
+`2023-present`
+**Co-Chair, Finance Committee**
+
+`2024-present`
+**Member, Scientific Committee**
+
+`2023-present`
+**Chair, Chronic Pain Special Interest Group**
+
+`2021-2023`
+Member, Finance Committee
+
+### Australian Rheumatology Journal (ARJ)
+
+`2025-present`
+**Inaugural Editor-in-Chief**
+
+### Royal Australasian College of Physicians (RACP)
+
+`2024-2026`
+Member, Adult Medicine Division Council
+
+`2022-2024`
+Member, College Council
+
+### Editorial and Evidence Synthesis
+
+`2022-present`
+**Member, Living Evidence and Methods Advisory Committee, [Australian Living Evidence Consortium](https://penguin-orb-fxwn.squarespace.com/)**
+
+`2019-2024`
+Editorial Board Member, Cochrane Musculoskeletal
+
+`2008-2022`
+Associate Editor, International Journal of Rheumatic Diseases
+
+### Other Service
+
+`2025-present`
+**Member, Central Adelaide Local Health Network Drug & Therapeutics Committee**
+
+`2023`
+Expert Panel Member, Australian Commission on Safety and Quality in Health Care [recommendations on the use of Patient-Reported Outcome Measures (PROMs) for low back pain](https://www.safetyandquality.gov.au/our-work/indicators-measurement-and-reporting/patient-reported-outcomes/proms-implementers/prom-recommendations)
+
+`2021-2024`
+Steering Committee Member, South Australian Commission on Excellence and Innovation in Health Statewide Chronic Pain Clinical Network
+
+`2012-2022`
+Arthritis SA Education, Research & Advocacy Committee
+
+`2021`
+Member, Thrombosis and Haemostasis Society of Australia and New Zealand (THANZ) Vaccine-Induced Immune Thrombotic Syndrome Communications Committee
+
+`2018`
+Steering Committee Member, National Strategic Action Plan for Arthritis
 
 
 ## Teaching  
@@ -201,8 +225,6 @@ Expert working group member, RACGP Guideline for the management of knee and hip 
 Member, Rheumatology Expert Writing Group, Rheumatology Guidelines 3rd Edition   
 
 ## Other Research Activity  
-`2025-present`
-**Inaugural Editor-in-Chief, Australian Rheumatology Journal**   
 
 `2023`
 NHMRC Investigator Grant Reviewer    
