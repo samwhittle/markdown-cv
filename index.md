@@ -283,6 +283,8 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 
 `2026`    
+Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, **Whittle SL**, et al. _Perioperative use of disease-modifying anti-rheumatic drugs (DMARDs) in people with inflammatory arthritis_. Cochrane Database Syst Rev. 2026;5: [CD015096](https://doi.org/10.1002/14651858.CD015096.pub2).
+
 **Whittle SL**. _Inaugural Editorial_. ARJ. [2026](https://www.arj.org.au/article/162003-inaugural-editorial?auth_token=_VT8xkHmnCgxlM_8xCLK)
 
 Haas R, Marmura H, Furtado R, Ramiro S, Gagnier JJ, Verhagen A, **Whittle SL**, et al. _Suitability of the Oxford Shoulder Score for measuring pain in clinical trials evaluating interventions for people with shoulder disorders according to the OMERACT filter 2.2_. Semin Arthritis Rheum. 2026; [152998](https://www.sciencedirect.com/science/article/pii/S0049017226000879?lid=jua9g5tkojjo&utm_source=braze&utm_medium=email&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&DGCID=STMJ_220042_AUTH_SERV_PPUB).
@@ -721,4 +723,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 20 May 2026<br/><br/>
+<br/>Last updated: 22 May 2026<br/><br/>
