@@ -283,6 +283,10 @@ Co-supervisor: Prof Andrew Briggs (Curtin University)
 
 
 `2026`    
+Thomas J, Kamso MM, **Whittle SL**, Wells GA, Kelly SE, Pardo Pardo J, et al. _Disease-modifying antirheumatic drugs (DMARDs) for rheumatoid arthritis after failure of biologic or targeted synthetic therapy: a systematic review and network meta-analysis_. Cochrane Database Syst Rev. 2026;7: [CD013562](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013562.pub2/full).
+   
+Vohora D, **Whittle SL**, Johnston RV, Cyril S, Buchbinder R. _Methotrexate for hand osteoarthritis (protocol)_. Cochrane Database Syst Rev. 2026;7: [CD016228](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016228/full).  
+
 Ponkilainen V, Karjalainen TV, Kuitunen I, Uimonen M, Johnston RV, Saarinen A, **Whittle SL**, et al. _Perioperative use of disease-modifying anti-rheumatic drugs (DMARDs) in people with inflammatory arthritis_. Cochrane Database Syst Rev. 2026;5: [CD015096](https://doi.org/10.1002/14651858.CD015096.pub2).
 
 **Whittle SL**. _Inaugural Editorial_. ARJ. [2026](https://www.arj.org.au/article/162003-inaugural-editorial?auth_token=_VT8xkHmnCgxlM_8xCLK)
@@ -723,4 +727,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 22 May 2026<br/><br/>
+<br/>Last updated: 19 July 2026<br/><br/>
