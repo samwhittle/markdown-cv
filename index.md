@@ -134,6 +134,9 @@ Electronic Communications Committee
 `2023-present`
 **Co-Chair, Finance Committee**
 
+`2026-2028`
+**Member, Scientific Committee, 2028 APLAR Congress**   
+
 `2024-present`
 **Member, Scientific Committee**
 
@@ -727,4 +730,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 19 July 2026<br/><br/>
+<br/>Last updated: 28 July 2026<br/><br/>
