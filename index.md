@@ -645,6 +645,10 @@ Edwards DJ, **Whittle SL**, Nissen MJ, Cohen B, Oakeshott RD, Keene GC. _Radiogr
 `2026`
 _Digital Solutions to Guideline Implementation_, APLAR Congress, Seoul, South Korea, October 2026  
 
+CONVERGE 2026 - Australian POTS Foundation Conference, Adelaide, June 2026:   
+- _Fibromyalgia: Advances in Diagnosis, Mechanisms & Holistic Treatment_   
+- _Fibromyalgia: A user's guide_   
+
 _Rheumatoid Arthritis Living Guidelines_, ARA Annual Scientific Meeting, Gold Coast, May 2026
 
 `2025`
@@ -730,4 +734,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 28 July 2026<br/><br/>
+<br/>Last updated: 7 August 2026<br/><br/>
