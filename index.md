@@ -172,6 +172,9 @@ Associate Editor, International Journal of Rheumatic Diseases
 
 ### Other Service
 
+`2026-present`
+**Member, The Hospital Research Foundation Group - Arthritis Advisory Committee**    
+
 `2025-present`
 **Member, Central Adelaide Local Health Network Drug & Therapeutics Committee**
 
@@ -734,4 +737,4 @@ _Chronic pain in rheumatology: fibromyalgia and beyond_, Faculty of Pain Medicin
 
 
 
-<br/>Last updated: 7 August 2026<br/><br/>
+<br/>Last updated: 28 August 2026<br/><br/>
